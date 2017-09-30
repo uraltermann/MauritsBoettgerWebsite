@@ -1,0 +1,14 @@
+# use the rules of eslint-config-airbnb
+extends:
+  - airbnb/base
+
+# registerenvironments
+env:
+  browser: true
+
+rules:
+  # eslint-plugin-import
+  import/no-extraneous-dependencies: 0
+
+globals:
+  $: false

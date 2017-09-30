@@ -1,0 +1,10 @@
+<!-- index.nunjucks -->
+{% set title = 'Maurits Boettger' %}
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+<h1>
+  test
+</h1>
+
+{% endblock %}
