@@ -1,0 +1,88 @@
+// NOTE
+// html is set to 62.5% so that all the REM measurements throughout Skeleton
+// are based on 10px sizing. So basically 1.5rem = 15px :)
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: $black;
+  font-family: $base-font;
+  font-size: $font-size-base; // currently ems cause chrome bug misinterpreting rems on body element
+  font-weight: 400;
+  line-height: $line-height;
+}
+
+.content {
+  overflow: hidden;
+  padding: 0 $dist-xs;
+}
+
+.container-fluid {
+  @include clearfix;
+  max-width: 960px;
+  padding: 0;
+  text-decoration: none; //no link highlighting
+}
+
+
+.header {
+  color: $black;
+  cursor: pointer;
+  display: block;
+  margin: $dist-lg 0;
+  margin-bottom:0px;
+  text-decoration: none; //no link highlighting
+
+  &:hover {
+    color: $black;
+    // text-decoration: underline;
+  }
+}
+
+.grid-item {
+ //background-color:yellow;	
+ //height:20px;
+ //margin-bottom:12px;
+}
+
+.page {
+  color: $black;
+  cursor: pointer;
+  text-decoration: none; //no link highlighting
+
+  &:hover {
+  	color: $red;
+    //text-decoration: underline;
+  }
+}
+
+.image-container {
+  @include clearfix;
+  margin-top: $dist-lg;
+}
+
+.caption {
+  color: $black;
+  cursor: pointer;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.image-xs,
+.image-small,
+.image-medium,
+.image-large {
+  display: block;
+  width: 100%;
+}
+
+.image-xs {
+  @include media-breakpoint-up(md) {
+    width: $width-xs;
+  }
+}

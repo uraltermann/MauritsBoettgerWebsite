@@ -1,0 +1,16 @@
+<!-- index.nunjucks -->
+{% set title = 'Vita Maurits Boettger' %}
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+<p>
+Maurits Boettger, born in 1990, Karlsruhe Germany</br>
+Studies at Academy of Media Arts Cologne, 2012-2017</br>
+DAAD-Scholarship for studies at Universidad Nacional de Colombia, 2014-2015</br>
+</p>
+<p>
+In his work Maurits Boettger questions processes in perception of time and space. Utilized Media is light, air, still- and moving images, installations, apps, and in a broader sense again: time. not seldom the media itself becomes the subject of investigation. In their observation spectators are reflected upon themselves.
+</p>
+
+{% endblock %}

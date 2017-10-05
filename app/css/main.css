@@ -1263,3 +1263,68 @@ html {
 @media print {
   .hidden-print {
     display: none !important; } }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  color: #222;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.6; }
+
+.content {
+  overflow: hidden;
+  padding: 0 1.1rem; }
+
+.container-fluid {
+  max-width: 960px;
+  padding: 0;
+  text-decoration: none; }
+  .container-fluid::after {
+    display: block;
+    content: "";
+    clear: both; }
+
+.header {
+  color: #222;
+  cursor: pointer;
+  display: block;
+  margin: 6.6rem 0;
+  margin-bottom: 0px;
+  text-decoration: none; }
+  .header:hover {
+    color: #222; }
+
+.page {
+  color: #222;
+  cursor: pointer;
+  text-decoration: none; }
+  .page:hover {
+    color: #FF0000; }
+
+.image-container {
+  margin-top: 6.6rem; }
+  .image-container::after {
+    display: block;
+    content: "";
+    clear: both; }
+
+.caption {
+  color: #222;
+  cursor: pointer;
+  text-decoration: none; }
+  .caption:hover {
+    text-decoration: underline; }
+
+.image-xs,
+.image-small,
+.image-medium,
+.image-large {
+  display: block;
+  width: 100%; }
+
+@media (min-width: 768px) {
+  .image-xs {
+    width: 38%; } }
