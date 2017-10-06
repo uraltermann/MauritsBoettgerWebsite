@@ -1,5 +1,4 @@
-# zeit-webpage
-zeit-webpage is a website build to showcase the work of a friend of mine for his diploma project.
+#MauritsBoettgerWebsite
 In the following I am going to explain how to modify content on the webpage. In order to do so some tools must be installed:
 
 - [Sublime Text 3] (https://www.sublimetext.com/3) (text editor for code)
@@ -14,37 +13,37 @@ We are using the npm package manager to install the `gulp` command.
 [Gulp] (http://gulpjs.com/) is a tool for automatating tasks in the development workflow. In this project it is used to run the project on a local webserver as well as preparing code and assets to be uploaded on a webserver.
 
 ## Get the project running
-When these tools are installed it is time to download the repository. Use Sublime text editor and open the entire folder `/zeit-webpage`.
+When these tools are installed it is time to download the repository. Use Sublime text editor and open the entire folder `/MauritsBoettgerWebsite`.
 Now you can see the contents of the project.
 
 The file `package.json` specifies which modules (chunks of code from other developers) the project relies on.
 In order to install all required modules do the following:
 - open the console of your computer
-- use the command `cd <folder>/<folder>/zeit-webpage` to get into the folder `/zeit-webpage`
+- use the command `cd <folder>/<folder>/MauritsBoettgerWebsite` to get into the folder `/MauritsBoettgerWebsite`
 - run the command `npm install`
 
 Now all required modules are installed.
 
 ## Run project on a local server
-Run `gulp` command from within the `/zeit-webpage` folder.
+Run `gulp` command from within the `/MauritsBoettgerWebsite` folder.
 
 The command will run tasks specified in `gulpfile.js`. These include visualizing the code in a browser window and refreshing the page whenever the code changes. When you modify content inside the source files keep the `gulp` command executed to see changes immediately reflected by your browser.
 
 ## Upload website to a webserver
 Before uploading the website to a webserver all assets (html, css, javascript, images) need to be optimized to make the website faster.
 
-For optimization run the command `gulp build` inside of the console from within the `/zeit-webpage` folder. This will optimize all assets and create an optimized version ready for distribution inside the `/zeit-webpage/dist` folder.
+For optimization run the command `gulp build` inside of the console from within the `/MauritsBoettgerWebsite` folder. This will optimize all assets and create an optimized version ready for distribution inside the `/MauritsBoettgerWebsite/dist` folder.
 
 #### Get website online
-Just copy the content of `/zeit-webpage/dist` onto the webserver.
+Just copy the content of `/MauritsBoettgerWebsite/dist` onto the webserver.
 
 # Modify content
 ## Folder structure
-All files that are relevant for the content of the webpage are found within `/zeit-webpage/app` folder.
+All files that are relevant for the content of the webpage are found within `/MauritsBoettgerWebsite/app` folder.
 To modify the content of the webpage it is necessary to modify templates with `.nunjucks` extension found inside of `/pages` and `/templates` folder. Images are placed inside of the `/image` folder. Never modify `.html` files directly. These files are automatically constructed from the template files.
 
 ```
-zeit-webpage/app/
+MauritsBoettgerWebsite/app/
 ├── images/
 ├── pages/
 └── templates/
@@ -54,7 +53,7 @@ Inside of the `/pages` folder all pages are to be found. Content that is shared 
 Remember to run the `gulp` command when modifying content.
 
 ## Modify teaser texts
-To modify the teaser text of an article go to the file `zeit-webpage/app/templates/teaseritems.nunjucks`.
+To modify the teaser text of an article go to the file `MauritsBoettgerWebsite/app/templates/teaseritems.nunjucks`.
 
 ```
 {% call element.textualteaser('Sand', 'sand.html') -%}
@@ -64,7 +63,7 @@ To modify the teaser text of an article go to the file `zeit-webpage/app/templat
 ```
 The function takes the headline and the filename of the article as an input as well as the text to be displayed as a teaser.
 
-The teaser for "Einleitung" is to be found in the file `/zeit-webpage/pages/index.nunjucks`.
+The teaser for "Einleitung" is to be found in the file `/MauritsBoettgerWebsite/pages/index.nunjucks`.
 
 ```
 <div class="introduction teaser">
@@ -78,7 +77,7 @@ The teaser for "Einleitung" is to be found in the file `/zeit-webpage/pages/inde
 ```
 
 ## Modify article text
-All articles are found in the `zeit-webpage/app/pages` folder. The content of an article is surrounded by the `<article> </article>` tags.
+All articles are found in the `MauritsBoettgerWebsite/app/pages` folder. The content of an article is surrounded by the `<article> </article>` tags.
 
 An article has the following style elements:
 
