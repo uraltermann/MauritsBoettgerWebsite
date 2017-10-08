@@ -1305,7 +1305,7 @@ body {
     color: #FF0000; }
 
 .image-container {
-  margin-top: 6.6rem; }
+  margin-top: 1.1rem; }
   .image-container::after {
     display: block;
     content: "";
