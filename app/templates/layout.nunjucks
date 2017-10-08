@@ -34,10 +34,7 @@
                 <h1 class="header">
                     Maurits Boettger
                 </h1>
-                <div class="navigation">
-                    <a class="page" href="index.html">Works</a>
-                    <a class="page" href="vita.html">Vita</a>
-                </div>
+
 
                 {% block content %} 
 

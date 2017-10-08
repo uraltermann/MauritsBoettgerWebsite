@@ -12,7 +12,7 @@ body {
   font-size: $font-size-base; // currently ems cause chrome bug misinterpreting rems on body element
   font-weight: 400;
   line-height: $line-height;
-  //background-color: #555;
+  background-color: #F2F2F2;
 }
 
 .content {
@@ -47,35 +47,44 @@ body {
 
 .page {
   color: $black;
-  cursor: pointer;
-  
   text-decoration: none; //no link highlighting
+}
+
+.page_ul {
+  color: $black;
+  cursor: pointer;
+  text-decoration: underline;
 
   &:hover {
-  	color: $red;
-    //text-decoration: underline;
+    color: $red;
+    text-decoration: underline;
   }
 }
 
 .image-container {
   @include clearfix;
   margin-top: $dist-xs;
+  //margin-bottom: 32px;
+  //overflow-wrap: break-word;
+  //padding: 0rem 0rem 10rem 0rem ;
 }
 
 .caption {
   color: $black;
-  cursor: pointer;
-  text-decoration: none;
+  //cursor: pointer;
+  //text-decoration: none;
+}
 
-  &:hover {
-    text-decoration: underline;
-  }
+.description {
+  color: $black;
+  font-size: 13px
 }
 
 .image-xs,
 .image-small,
 .image-medium,
 .image-large {
+  margin-bottom: 8px;
   display: block;
   width: 100%;
 }

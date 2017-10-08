@@ -4,70 +4,89 @@
 
 {% block content %}
 
-	<div class="grid row">
-		<div class="grid-sizer col-sm-6"></div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a data-fancybox href="images/Girasol.jpg">
-					<img class="image-small" src="images/Girasol.jpg" alt="Girasol">
-				</a>
-				<a class="caption" href="images/Girasol.jpg">Girasol, Apparat, 2017</a>
-			</div>
-		</div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a href="images/Metrotonom.jpg">
-					<img class="image-small" src="images/Metrotonom.jpg" alt="Metrotonom">
-				</a>
-				<span class="caption">Metrotom, Apparat, 2017</br> 
-				ist ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt.</span>
-			</div>
-		</div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a href="images/flip.jpg">
-					<img class="image-small" src="images/flip.jpg" alt="Audiotekt">
-				</a>
-				<a class="caption" href="images/flip.jpg">Coincidence (on the flip of a coin), Videoloop, 2016
-				</a>
-			</div>
-		</div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a href="images/tigers.jpg">
-					<img class="image-small" src="images/tigers.jpg" alt="Audiotekt">
-				</a>
-				<a class="caption" href="images/tigers.jpg">Tigers of the Past, Film, 2016
-				</a>
-			</div>
-		</div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a href="images/Audiotekt.png">
-					<img class="image-small" src="images/Audiotekt.png" alt="Audiotekt">
-				</a>
-				<a class="caption" href="images/Audiotekt.png"> Audiotekt, Android Application, 2016
-				</a>
-			</div>
-		</div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a href="images/fila.jpg"">
-					<img class="image-small" src="images/fila.jpg" alt="Girasol">
-				</a>
-				<a class="caption" href="images/fila.jpg">La Espera, 7 Zeichnungen, 2014
-				</span>
-			</div>
-		</div>
-		<div class="grid-item col-sm-6">
-			<div class="image-container">
-				<a href="images/strloo.jpg">
-					<img class="image-small" src="images/strloo.jpg" alt="Metrotonom">
-				</a>
-				<a class="caption" href="images/strloo.jpg">Strange Loops, Video, 2012
-				</span>
+<div class="navigation">
+	<a class="page" href="index.html">Works</a>
+	<a class="page_ul" href="vita.html">Vita</a>
+</div>
+
+<div class="grid row">
+	<div class="grid-sizer col-sm-6 col-md-4"></div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/Girasol.jpg">
+				<img class="image-small" src="images/Girasol.jpg" alt="Girasol">
+			</a>
+			<a class="caption">Girasol, Apparat, 2017</br></a>
+			<div class="description">
+				ist eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft.
 			</div>
 		</div>
 	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/Metrotonom.jpg">
+				<img class="image-small" src="images/Metrotonom.jpg" alt="Metrotonom">
+			</a>
+			<a class="caption">Metrotom, Apparat, 2017</br></a> 
+			<a class="description">
+			ist ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt.</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/flip.jpg">
+				<img class="image-small" src="images/flip.jpg" alt="Coincidence (on the flip of a coin)">
+			</a>
+			<a class="caption">Coincidence (on the flip of a coin), Videoloop, 2016</br></a>
+			<a class="description">
+				Kopf = nach rechts, Zahl = nach links. Wohin führt mich die Münze an einem Ort, an dem alle Richtungen gleich aussehen?
+			</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/tigers.jpg">
+				<img class="image-small" src="images/tigers.jpg" alt="Tigers of the Past">
+			</a>
+			<a class="caption">Tigers of the Past, Film, 2016</br></a>
+			<a class="description">
+				Ein Film über Projektion, Antizipation, Erinnerung, Vergangenheit und Zukunft
+			</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/Audiotekt.png">
+				<img class="image-small" src="images/Audiotekt.png" alt="Audiotekt">
+			</a>
+			<a class="caption"> Audiotekt, Android Application, 2016</br></a>
+			<a class="description">
+			Ist eine Android Applikation, die einen Remix aus Umgebungsgeräuschen, basierend auf dem Rhythmus der Bewegung des Smartphones generiert.</br>
+		</a>
+	</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4">
+	<div class="image-container">
+		<a data-fancybox href="images/fila1.jpg"">
+			<img class="image-small" src="images/fila1.jpg" alt="La Espera">
+		</a>
+		<a class="caption">La Espera, 7 Zeichnungen, 2014</br></a>
+		<a class="description">
+			Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
+		</a>
+	</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4">
+	<div class="image-container">
+		<a data-fancybox href="images/strloo.jpg">
+			<img class="image-small" src="images/strloo.jpg" alt="Strange Loops">
+		</a>
+		<a class="caption">Strange Loops, Video, 2012</br></a>
+		<a class="description">
+			ist eine meiner ersten Videoarbeiten. Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde. Ich wollte herauszufinden, welche Bilder entstehen, wenn die Drehgeschwindigkeit der Bildfrequenz der Kamera entspricht. Das Video ist ohne jegliche Nachbearbeitung ausgestellt. 
+		</a>
+	</div>
+</div>
+</div>
 
 {% endblock %}
