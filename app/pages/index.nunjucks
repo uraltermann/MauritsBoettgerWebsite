@@ -18,7 +18,7 @@
 			</a>
 			<a class="caption">Girasol, Apparat, 2017</br></a>
 			<div class="description">
-				ist eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft.
+				Eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft.
 			</div>
 		</div>
 	</div>
@@ -29,7 +29,37 @@
 			</a>
 			<a class="caption">Metrotom, Apparat, 2017</br></a> 
 			<a class="description">
-			ist ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt.</a>
+			Ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt.</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/kontraktion.jpg">
+				<img class="image-small" src="images/kontraktion.jpg" alt="Kontraktion und Dilatation in Herz und Raum">
+			</a>
+			<a class="caption">Kontraktion und Dilatation in Herz und Raum, Fotoanimation, 2017</br></a> 
+			<a class="description">
+			Eine 10 sekündige Fotoanimation, abgespielt als Schleife und unterlegt mit einer Tonaufnahme meines Herzschlags. Die Ausdehnung und das Zusammenziehen des Herzens werden im Bild auf den Raum übertragen.</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/sand.jpg">
+				<img class="image-small" src="images/sand.jpg" alt="Sanduhr (beschleunigt)">
+			</a>
+			<a class="caption">Sanduhr (beschleunigt), Videoschleife, 2017</br></a> 
+			<a class="description">
+			Eine 0,56 sekündige Videoschleife die mich zeigt, wie ich in der Wüste stehend eine Sanduhr an einer Schnur beschleunige.</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/watch.jpg">
+				<img class="image-small" src="images/watch.jpg" alt="Watch">
+			</a>
+			<a class="caption">Watch, Apparat, 2017</br></a> 
+			<a class="description">
+			Eine Uhr, die aufhört die Zeit zu zählen, sobald man sie anschaut. Wendet man sich ab, so springt die Anzeige zur aktuellen Uhrzeit.</a>
 		</div>
 	</div>
 	<div class="grid-item col-sm-6 col-md-4">
@@ -37,7 +67,7 @@
 			<a data-fancybox href="images/flip.jpg">
 				<img class="image-small" src="images/flip.jpg" alt="Coincidence (on the flip of a coin)">
 			</a>
-			<a class="caption">Coincidence (on the flip of a coin), Videoloop, 2016</br></a>
+			<a class="caption">Coincidence (on the flip of a coin), Videoschleife, 2016</br></a>
 			<a class="description">
 				Kopf = nach rechts, Zahl = nach links. Wohin führt mich die Münze an einem Ort, an dem alle Richtungen gleich aussehen?
 			</a>
@@ -59,34 +89,45 @@
 			<a data-fancybox href="images/Audiotekt.png">
 				<img class="image-small" src="images/Audiotekt.png" alt="Audiotekt">
 			</a>
-			<a class="caption"> Audiotekt, Android Application, 2016</br></a>
+			<a class="caption">Audiotekt, Android Application, 2016</br></a>
 			<a class="description">
-			Ist eine Android Applikation, die einen Remix aus Umgebungsgeräuschen, basierend auf dem Rhythmus der Bewegung des Smartphones generiert.</br>
+			Eine Android Applikation, die einen Remix aus Umgebungsgeräuschen, basierend auf dem Rhythmus der Bewegung des Smartphones generiert.</br>
 		</a>
 	</div>
-</div>
-<div class="grid-item col-sm-6 col-md-4">
-	<div class="image-container">
-		<a data-fancybox href="images/fila1.jpg"">
-			<img class="image-small" src="images/fila1.jpg" alt="La Espera">
-		</a>
-		<a class="caption">La Espera, 7 Zeichnungen, 2014</br></a>
-		<a class="description">
-			Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/vth.png">
+				<img class="image-small" src="images/vth.png" alt="Vthcierflih">
+			</a>
+			<a class="caption">Vthcierflih, 7 Videos, 2016</br></a>
+			<a class="description">
+			Tutorials von Youtube. Ton vorwärts abgespielt - Bild Rückwärts. Ungeschnitten. </a><a class="description"href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a></br>
 		</a>
 	</div>
-</div>
-<div class="grid-item col-sm-6 col-md-4">
-	<div class="image-container">
-		<a data-fancybox href="images/strloo.jpg">
-			<img class="image-small" src="images/strloo.jpg" alt="Strange Loops">
-		</a>
-		<a class="caption">Strange Loops, Video, 2012</br></a>
-		<a class="description">
-			ist eine meiner ersten Videoarbeiten. Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde. Ich wollte herauszufinden, welche Bilder entstehen, wenn die Drehgeschwindigkeit der Bildfrequenz der Kamera entspricht. Das Video ist ohne jegliche Nachbearbeitung ausgestellt. 
-		</a>
 	</div>
-</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/fila1.jpg"">
+				<img class="image-small" src="images/fila1.jpg" alt="La Espera">
+			</a>
+			<a class="caption">La Espera, 7 Zeichnungen, 2014</br></a>
+			<a class="description">
+				Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
+			</a>
+		</div>
+	</div>
+	<div class="grid-item col-sm-6 col-md-4">
+		<div class="image-container">
+			<a data-fancybox href="images/strloo.jpg">
+				<img class="image-small" src="images/strloo.jpg" alt="Strange Loops">
+			</a>
+			<a class="caption">Strange Loops, Video, 2012</br></a>
+			<a class="description">
+				Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde (entsprechend der Bildfrequenz der Kamera).
+			</a>
+		</div>
+	</div>
 </div>
 
 {% endblock %}
