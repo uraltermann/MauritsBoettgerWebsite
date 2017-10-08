@@ -12,6 +12,7 @@ body {
   font-size: $font-size-base; // currently ems cause chrome bug misinterpreting rems on body element
   font-weight: 400;
   line-height: $line-height;
+  //background-color: #555;
 }
 
 .content {
@@ -29,16 +30,9 @@ body {
 
 .header {
   color: $black;
-  cursor: pointer;
   display: block;
-  margin: $dist-lg 0;
+  margin-top: $dist-lg;
   margin-bottom:0px;
-  text-decoration: none; //no link highlighting
-
-  &:hover {
-    color: $black;
-    // text-decoration: underline;
-  }
 }
 
 .grid-item {
@@ -47,9 +41,14 @@ body {
  //margin-bottom:12px;
 }
 
+.navigation {
+	margin-bottom: $dist-md;
+}
+
 .page {
   color: $black;
   cursor: pointer;
+  
   text-decoration: none; //no link highlighting
 
   &:hover {

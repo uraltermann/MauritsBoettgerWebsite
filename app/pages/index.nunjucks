@@ -3,67 +3,71 @@
 {% extends "layout.nunjucks" %}
 
 {% block content %}
-<div class="row">
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/Girasol.jpg">
-				<img class="image-small" src="images/Girasol.jpg" alt="Girasol">
-			</a>
-			<a class="caption" href="images/Girasol.jpg">Girasol, Apparat, 2017</a>
+
+	<div class="grid row">
+		<div class="grid-sizer col-sm-6"></div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a data-fancybox href="images/Girasol.jpg">
+					<img class="image-small" src="images/Girasol.jpg" alt="Girasol">
+				</a>
+				<a class="caption" href="images/Girasol.jpg">Girasol, Apparat, 2017</a>
+			</div>
+		</div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a href="images/Metrotonom.jpg">
+					<img class="image-small" src="images/Metrotonom.jpg" alt="Metrotonom">
+				</a>
+				<span class="caption">Metrotom, Apparat, 2017</br> 
+				ist ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt.</span>
+			</div>
+		</div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a href="images/flip.jpg">
+					<img class="image-small" src="images/flip.jpg" alt="Audiotekt">
+				</a>
+				<a class="caption" href="images/flip.jpg">Coincidence (on the flip of a coin), Videoloop, 2016
+				</a>
+			</div>
+		</div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a href="images/tigers.jpg">
+					<img class="image-small" src="images/tigers.jpg" alt="Audiotekt">
+				</a>
+				<a class="caption" href="images/tigers.jpg">Tigers of the Past, Film, 2016
+				</a>
+			</div>
+		</div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a href="images/Audiotekt.png">
+					<img class="image-small" src="images/Audiotekt.png" alt="Audiotekt">
+				</a>
+				<a class="caption" href="images/Audiotekt.png"> Audiotekt, Android Application, 2016
+				</a>
+			</div>
+		</div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a href="images/fila.jpg"">
+					<img class="image-small" src="images/fila.jpg" alt="Girasol">
+				</a>
+				<a class="caption" href="images/fila.jpg">La Espera, 7 Zeichnungen, 2014
+				</span>
+			</div>
+		</div>
+		<div class="grid-item col-sm-6">
+			<div class="image-container">
+				<a href="images/strloo.jpg">
+					<img class="image-small" src="images/strloo.jpg" alt="Metrotonom">
+				</a>
+				<a class="caption" href="images/strloo.jpg">Strange Loops, Video, 2012
+				</span>
+			</div>
 		</div>
 	</div>
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/Metrotonom.jpg">
-				<img class="image-small" src="images/Metrotonom.jpg" alt="Metrotonom">
-			</a>
-			<span class="caption">Metrotom, Apparat, 2017</span>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/flip.jpg">
-				<img class="image-small" src="images/flip.jpg" alt="Audiotekt">
-			</a>
-			<a class="caption" href="images/flip.jpg">Coincidence (on the flip of a coin), Videoloop, 2016
-			</a>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/tigers.jpg">
-				<img class="image-small" src="images/tigers.jpg" alt="Audiotekt">
-			</a>
-			<a class="caption" href="images/tigers.jpg">Tigers of the Past, Film, 2016
-			</a>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/Audiotekt.png">
-				<img class="image-small" src="images/Audiotekt.png" alt="Audiotekt">
-			</a>
-			<a class="caption" href="images/Audiotekt.png"> Audiotekt, Android Application, 2016
-			</a>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/fila.jpg"">
-				<img class="image-small" src="images/fila.jpg" alt="Girasol">
-			</a>
-			<a class="caption" href="images/fila.jpg">La Espera, 7 Zeichnungen, 2014
-			</span>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6">
-		<div class="image-container">
-			<a href="images/strloo.jpg">
-				<img class="image-small" src="images/strloo.jpg" alt="Metrotonom">
-			</a>
-			<a class="caption" href="images/strloo.jpg">Strange Loops, Video, 2012
-			</span>
-		</div>
-	</div>
-</div>
+
 {% endblock %}
