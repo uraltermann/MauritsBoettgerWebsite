@@ -94,40 +94,48 @@
 			Eine Android Applikation, die einen Remix aus Umgebungsgeräuschen, basierend auf dem Rhythmus der Bewegung des Smartphones generiert.</br>
 		</a>
 	</div>
-	</div>
-	<div class="grid-item col-sm-6 col-md-4">
-		<div class="image-container">
-			<a data-fancybox href="images/vth.png">
-				<img class="image-small" src="images/vth.png" alt="Vthcierflih">
-			</a>
-			<a class="caption">Vthcierflih, 7 Videos, 2016</br></a>
-			<a class="description">
-			Tutorials von Youtube. Ton vorwärts abgespielt - Bild Rückwärts. Ungeschnitten. </a><a class="description"href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a></br>
+</div>
+<div class="grid-item col-sm-6 col-md-4">
+	<div class="image-container">
+		<a data-fancybox href="images/vth.png">
+			<img class="image-small" src="images/vth.png" alt="Vthcierflih">
+		</a>
+		<a class="caption">Vthcierflih, 7 Videos, 2016</br></a>
+		<a class="description">
+		Tutorials von Youtube. Ton vorwärts abgespielt - Bild Rückwärts. Ungeschnitten. </a><a class="description"href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a></br>
+	</a>
+</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4">
+	<div class="image-container">
+		<a data-fancybox="gallery" href="images/fila1.jpg">
+			<img class="image-small" src="images/fila1.jpg" alt="La Espera">
+		</a>
+		<a data-fancybox="gallery" href="images/fila2.jpg">
+		</a>
+		<a data-fancybox="gallery" href="images/fila3.jpg">
+		</a>
+		<a data-fancybox="gallery" href="images/fila4.jpg">
+		</a>
+		<a data-fancybox="gallery" href="images/fila5.jpg">
+		</a>
+		<a class="caption">La Espera, 7 Zeichnungen, 2014</br></a>
+		<a class="description">
+			Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
 		</a>
 	</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4">
+	<div class="image-container">
+		<a data-fancybox href="images/strloo.jpg">
+			<img class="image-small" src="images/strloo.jpg" alt="Strange Loops">
+		</a>
+		<a class="caption">Strange Loops, Video, 2012</br></a>
+		<a class="description">
+			Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde (entsprechend der Bildfrequenz der Kamera).
+		</a>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4">
-		<div class="image-container">
-			<a data-fancybox href="images/fila1.jpg"">
-				<img class="image-small" src="images/fila1.jpg" alt="La Espera">
-			</a>
-			<a class="caption">La Espera, 7 Zeichnungen, 2014</br></a>
-			<a class="description">
-				Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
-			</a>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6 col-md-4">
-		<div class="image-container">
-			<a data-fancybox href="images/strloo.jpg">
-				<img class="image-small" src="images/strloo.jpg" alt="Strange Loops">
-			</a>
-			<a class="caption">Strange Loops, Video, 2012</br></a>
-			<a class="description">
-				Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde (entsprechend der Bildfrequenz der Kamera).
-			</a>
-		</div>
-	</div>
+</div>
 </div>
 
 {% endblock %}
