@@ -46,11 +46,13 @@ body {
 }
 
 .page {
+font-size: $font-size-md;
   color: $black;
   text-decoration: none; //no link highlighting
 }
 
 .page_ul {
+font-size: $font-size-md;
   color: $black;
   cursor: pointer;
   text-decoration: underline;

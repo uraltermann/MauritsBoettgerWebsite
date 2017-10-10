@@ -1,14 +1,17 @@
 <!-- index.nunjucks -->
-{% set title = 'Vita Maurits Boettger' %}
+{% set title = 'Biografie Maurits Boettger' %}
 {% extends "layout.nunjucks" %}
 
 {% block content %}
 
 <div class="navigation">
-	<a class="page_ul" href="index.html">Works</a>
-	<a class="page" href="vita.html">Vita</a>
+	<a class="page_ul" href="index.html">Werke</a>
+	<a class="page" href="vita.html">Biografie</a>
 </div>
 <p>
+	</br>
+</br>
+</br>
 Geboren 1990 in Karlsruhe, Deutschland</br>
 2012-2017 Studium an der Kunsthochschule für Medien Köln </br>
 2014 DAAD-Auslandsstudium an der Universidad Nacional de Colombia</br>
@@ -20,7 +23,8 @@ Geboren 1990 in Karlsruhe, Deutschland</br>
 </br>
 </br>
 </br>
-</br>
+
+
 </p>
 <p>
 	<b>Einzelausstellungen</b></br>

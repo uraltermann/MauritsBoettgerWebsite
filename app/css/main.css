@@ -2029,7 +2029,7 @@ html {
 body {
   color: #222;
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.6rem;
   font-weight: 400;
   line-height: 1;
   background-color: #F2F2F2; }
@@ -2057,10 +2057,12 @@ body {
   margin-bottom: 4.4rem; }
 
 .page {
+  font-size: 1.47rem;
   color: #222;
   text-decoration: none; }
 
 .page_ul {
+  font-size: 1.47rem;
   color: #222;
   cursor: pointer;
   text-decoration: underline; }
