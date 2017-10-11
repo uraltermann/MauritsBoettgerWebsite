@@ -73,11 +73,14 @@ font-size: $font-size-md;
 
 .caption {
   color: $black;
+  //margin-bottom: 8px;
   //cursor: pointer;
   //text-decoration: none;
 }
 
 .description {
+  margin-top: 4px;
+  margin-bottom: 4px;
   color: $black;
   font-size: 13px
 }
@@ -86,7 +89,7 @@ font-size: $font-size-md;
 .image-small,
 .image-medium,
 .image-large {
-  margin-bottom: 8px;
+  margin-bottom: 4px;
   display: block;
   width: 100%;
 }
