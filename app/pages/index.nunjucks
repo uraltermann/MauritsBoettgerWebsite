@@ -14,7 +14,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/Girasol.jpg">
-				<img class="image-small" src="images/Girasol.jpg" alt="Girasol">
+				<img class="image-small" src="images/small/Girasol.jpg" alt="Girasol">
 			</a>
 			<div class="caption">Girasol, Apparat, 2017</br></div>
 			<div class="description">
@@ -25,18 +25,18 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/Metrotonom.jpg">
-				<img class="image-small" src="images/Metrotonom.jpg" alt="Metrotonom">
+				<img class="image-small" src="images/small/Metrotonom.jpg" alt="Metrotonom">
 			</a>
 			<div class="caption">Metrotom, Apparat, 2017</br></div> 
 			<div class="description">
-				Ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt.
+				Ein Metronom, erweitert durch ein Chaospendel. Dieses bringt das Metronom minimal, aber unvorhersehbar aus seinem gleichmäßigen Takt. <a class="description" href="https://vimeo.com/214993683">Ausstellungsdokumentation</a>
 			</div>
 		</div>
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/kontraktion.jpg">
-				<img class="image-small" src="images/kontraktion.jpg" alt="Kontraktion und Dilatation in Herz und Raum">
+				<img class="image-small" src="images/small/kontraktion.jpg" alt="Kontraktion und Dilatation in Herz und Raum">
 			</a>
 			<div class="caption">Kontraktion und Dilatation in Herz und Raum, Fotoanimation, 2017</br></div> 
 			<div class="description">
@@ -47,7 +47,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/sand.jpg">
-				<img class="image-small" src="images/sand.jpg" alt="Sanduhr (beschleunigt)">
+				<img class="image-small" src="images/small/sand.jpg" alt="Sanduhr (beschleunigt)">
 			</a>
 			<div class="caption">Sanduhr (beschleunigt), Videoschleife, 2017</br></div> 
 			<div class="description">
@@ -58,18 +58,18 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/watch.jpg">
-				<img class="image-small" src="images/watch.jpg" alt="Watch">
+				<img class="image-small" src="images/small/watch.jpg" alt="Watch">
 			</a>
 			<div class="caption">Watch, Apparat, 2017</br></div> 
 			<div class="description">
-				Eine Uhr, die aufhört die Zeit zu zählen, sobald man sie anschaut. Wendet man sich ab, so springt die Anzeige zur aktuellen Uhrzeit.
+				Eine Uhr, die aufhört die Zeit zu zählen, sobald man sie anschaut. Wendet man sich ab, so springt die Anzeige zur aktuellen Uhrzeit. <a class="description" href="https://vimeo.com/214992816">Ausstellungsdokumentation</a>
 			</div>
 		</div>
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/flip.jpg">
-				<img class="image-small" src="images/flip.jpg" alt="Coincidence (on the flip of a coin)">
+				<img class="image-small" src="images/small/flip.jpg" alt="Coincidence (on the flip of a coin)">
 			</a>
 			<div class="caption">Coincidence (on the flip of a coin), Videoschleife, 2016</br></div>
 			<div class="description">
@@ -80,7 +80,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox="gallery-tigers" href="images/tigers.jpg">
-				<img class="image-small" src="images/tigers.jpg" alt="Tigers of the Past">
+				<img class="image-small" src="images/small/tigers.jpg" alt="Tigers of the Past">
 			</a>
 			<a data-fancybox="gallery-tigers" href="images/tigers2.jpg">
 			</a>
@@ -95,7 +95,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/audiotekt.jpg">
-				<img class="image-small" src="images/audiotekt.jpg" alt="Audiotekt">
+				<img class="image-small" src="images/small/audiotekt.jpg" alt="Audiotekt">
 			</a>
 			<div class="caption">Audiotekt, Android Application, 2016</br></div>
 			<div class="description">
@@ -105,24 +105,23 @@
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox="gallery-VT" href="images/vth.png">
-				<img class="image-small" src="images/vth.png" alt="Vthcierflih">
+			<a data-fancybox="gallery-VT" href="images/vth.jpg">
+				<img class="image-small" src="images/small/vth.jpg" alt="Vthcierflih">
 			</a>
 			<a data-fancybox="gallery-VT" href="images/vth1.jpg">
 			</a>
-			<a data-fancybox="gallery-VT" href="images/vth2.png">
+			<a data-fancybox="gallery-VT" href="images/vth2.jpg">
 			</a>
 			<div class="caption">Vthcierflih, 7 Videos, 2016</br></div>
 			<div class="description">
-				Tutorials von Youtube. Ton vorwärts abgespielt - Bild Rückwärts. Ungeschnitten.
-			</div>
-			<a class="description" href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a>
+				Tutorials von Youtube. Ton vorwärts abgespielt - Bild Rückwärts. Ungeschnitten. <a class="description" href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a>
+			</div>	
 		</div>
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox="gallery-warten" href="images/Wartezeit.jpg">
-				<img class="image-small" src="images/Wartezeit.jpg" alt="La Espera">
+				<img class="image-small" src="images/small/Wartezeit.jpg" alt="La Espera">
 			</a>
 			<a data-fancybox="gallery-warten" href="images/Wartezeit2.jpg"></a>
 			<a class="caption">Wartezeit, Film, 2015</br></a>
@@ -133,7 +132,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox="gallery-espera" href="images/fila1.jpg">
-				<img class="image-small" src="images/fila1.jpg" alt="La Espera">
+				<img class="image-small" src="images/small/fila1.jpg" alt="La Espera">
 			</a>
 			<a data-fancybox="gallery-espera" href="images/fila2.jpg">
 			</a>
@@ -142,6 +141,10 @@
 			<a data-fancybox="gallery-espera" href="images/fila4.jpg">
 			</a>
 			<a data-fancybox="gallery-espera" href="images/fila5.jpg">
+			</a>
+			<a data-fancybox="gallery-espera" href="images/fila6.jpg">
+			</a>
+			<a data-fancybox="gallery-espera" href="images/fila7.jpg">
 			</a>
 			<div class="caption">La Espera, 7 Zeichnungen, 2014</br></div>
 			<div class="description">
@@ -152,7 +155,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox="gallery-Braustelle" href="images/Braustelle.jpg">
-				<img class="image-small" src="images/Braustelle.jpg" alt="La Espera">
+				<img class="image-small" src="images/small/Braustelle.jpg" alt="La Espera">
 			</a>
 			<a data-fancybox="gallery-Braustelle" href="images/Braustelle1.jpg">
 			</a>
@@ -167,7 +170,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox href="images/strloo.jpg">
-				<img class="image-small" src="images/strloo.jpg" alt="Strange Loops">
+				<img class="image-small" src="images/small/strloo.jpg" alt="Strange Loops">
 			</a>
 			<div class="caption">Strange Loops, Video, 2013</br></div>
 			<div class="description">
