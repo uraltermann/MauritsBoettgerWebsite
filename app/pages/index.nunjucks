@@ -18,7 +18,8 @@
 			</a>
 			<div class="caption">Girasol, Apparat, 2017</br></div>
 			<div class="description">
-				Eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft.
+				Eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft. <a class="description" href="http://abweichungenausderzeit.de/">Abweichungen aus der Zeit</a>
+				
 			</div>
 		</div>
 	</div>
@@ -71,113 +72,114 @@
 			<a data-fancybox href="images/flip.jpg">
 				<img class="image-small" src="images/small/flip.jpg" alt="Coincidence (on the flip of a coin)">
 			</a>
-			<div class="caption">Coincidence (on the flip of a coin), Videoschleife, 2016</br></div>
+			<div class="caption">Coincidence, Videoschleife, 2016</br></div>
 			<div class="description">
-				Kopf = nach rechts, Zahl = nach links. Wohin führt mich die Münze an einem Ort, an dem alle Richtungen gleich aussehen?
-			</div>
+			On the flip of a coin</br>
+			Kopf = nach rechts, Zahl = nach links. Wohin führt mich die Münze an einem Ort, an dem alle Richtungen gleich aussehen?
 		</div>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox="gallery-tigers" href="images/tigers.jpg">
-				<img class="image-small" src="images/small/tigers.jpg" alt="Tigers of the Past">
-			</a>
-			<a data-fancybox="gallery-tigers" href="images/tigers2.jpg">
-			</a>
-			<a data-fancybox="gallery-tigers" href="images/tigers1.jpg">
-			</a>
-			<div class="caption">Tigers of the Past, Film, 2016</br></div>
-			<div class="description">
-				Ein Film über Projektion, Antizipation, Erinnerung, Vergangenheit und Zukunft
-			</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox="gallery-tigers" href="images/tigers.jpg">
+			<img class="image-small" src="images/small/tigers.jpg" alt="Tigers of the Past">
+		</a>
+		<a data-fancybox="gallery-tigers" href="images/tigers2.jpg">
+		</a>
+		<a data-fancybox="gallery-tigers" href="images/tigers1.jpg">
+		</a>
+		<div class="caption">Tigers of the Past, Film, 2016</br></div>
+		<div class="description">
+			Ein Film über Projektion, Antizipation, Erinnerung, Vergangenheit und Zukunft
 		</div>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox href="images/audiotekt.jpg">
-				<img class="image-small" src="images/small/audiotekt.jpg" alt="Audiotekt">
-			</a>
-			<div class="caption">Audiotekt, Android Application, 2016</br></div>
-			<div class="description">
-				Eine Android Applikation, die einen Remix aus Umgebungsgeräuschen, basierend auf dem Rhythmus der Bewegung des Smartphones generiert. <a class="description" href="https://play.google.com/store/apps/details?id=com.maurits.audiotekt&hl=de">Download</a>
-			</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox href="images/audiotekt.jpg">
+			<img class="image-small" src="images/small/audiotekt.jpg" alt="Audiotekt">
+		</a>
+		<div class="caption">Audiotekt, Android Application, 2016</br></div>
+		<div class="description">
+			Eine Android Applikation, die einen Remix aus Umgebungsgeräuschen, basierend auf dem Rhythmus der Bewegung des Smartphones generiert. <a class="description" href="https://play.google.com/store/apps/details?id=com.maurits.audiotekt&hl=de">Download</a>
 		</div>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox="gallery-VT" href="images/vth.jpg">
-				<img class="image-small" src="images/small/vth.jpg" alt="Vthcierflih">
-			</a>
-			<a data-fancybox="gallery-VT" href="images/vth1.jpg">
-			</a>
-			<a data-fancybox="gallery-VT" href="images/vth2.jpg">
-			</a>
-			<div class="caption">Vthcierflih, 7 Videos, 2016</br></div>
-			<div class="description">
-				Tutorials von Youtube. Ton vorwärts abgespielt - Bild Rückwärts. Ungeschnitten. <a class="description" href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a>
-			</div>	
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox="gallery-VT" href="images/vth.jpg">
+			<img class="image-small" src="images/small/vth.jpg" alt="Vthcierflih">
+		</a>
+		<a data-fancybox="gallery-VT" href="images/vth1.jpg">
+		</a>
+		<a data-fancybox="gallery-VT" href="images/vth2.jpg">
+		</a>
+		<div class="caption">VThcierflih, 7 Videos, 2016</br></div>
+		<div class="description">
+			Tutorials von Youtube. Ton vorwärts abgespielt - Bild rückwärts. Ungeschnitten. <a class="description" href="https://www.youtube.com/watch?v=mLccXnPoP14&list=PL7gWQtWlSpztaDOGq0LaKraMcRjV-igfb">Playlist</a>
+		</div>	
+	</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox="gallery-warten" href="images/Wartezeit.jpg">
+			<img class="image-small" src="images/small/Wartezeit.jpg" alt="La Espera">
+		</a>
+		<a data-fancybox="gallery-warten" href="images/Wartezeit2.jpg"></a>
+		<a class="caption">Wartezeit, Film, 2015</br></a>
+		<div class="description">
+		11 Minuten und 49 Sekunden</br>Ein Essayfilm über das Warten, entstanden in Kolumbien</div>
+	</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox="gallery-espera" href="images/fila1.jpg">
+			<img class="image-small" src="images/small/fila1.jpg" alt="La Espera">
+		</a>
+		<a data-fancybox="gallery-espera" href="images/fila2.jpg">
+		</a>
+		<a data-fancybox="gallery-espera" href="images/fila3.jpg">
+		</a>
+		<a data-fancybox="gallery-espera" href="images/fila4.jpg">
+		</a>
+		<a data-fancybox="gallery-espera" href="images/fila5.jpg">
+		</a>
+		<a data-fancybox="gallery-espera" href="images/fila6.jpg">
+		</a>
+		<a data-fancybox="gallery-espera" href="images/fila7.jpg">
+		</a>
+		<div class="caption">La Espera, 7 Zeichnungen, 2014</br></div>
+		<div class="description">
+			Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
 		</div>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox="gallery-warten" href="images/Wartezeit.jpg">
-				<img class="image-small" src="images/small/Wartezeit.jpg" alt="La Espera">
-			</a>
-			<a data-fancybox="gallery-warten" href="images/Wartezeit2.jpg"></a>
-			<a class="caption">Wartezeit, Film, 2015</br></a>
-			<div class="description">
-			11 Minuten und 49 Sekunden</br>Ein Essayfilm über das Warten, entstanden in Kolumbien</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox="gallery-Braustelle" href="images/Braustelle.jpg">
+			<img class="image-small" src="images/small/Braustelle.jpg" alt="La Espera">
+		</a>
+		<a data-fancybox="gallery-Braustelle" href="images/Braustelle1.jpg">
+		</a>
+		<a data-fancybox="gallery-Braustelle" href="images/Braustelle2.jpg">
+		</a>
+		<div class="caption">Braustelle, 16mm Film, 4min, 2014</br></div>
+		<div class="description">
+			Der Prozess des Bierbrauens auf 16mm gefilmt, digitalisiert und rückwärts abgespielt. Über den Kurzfilm hinweg wird das Bier "entbraut", die Zutaten entmischt. Ein Irreversibler Prozess wird rückgängig gemacht.
 		</div>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox="gallery-espera" href="images/fila1.jpg">
-				<img class="image-small" src="images/small/fila1.jpg" alt="La Espera">
-			</a>
-			<a data-fancybox="gallery-espera" href="images/fila2.jpg">
-			</a>
-			<a data-fancybox="gallery-espera" href="images/fila3.jpg">
-			</a>
-			<a data-fancybox="gallery-espera" href="images/fila4.jpg">
-			</a>
-			<a data-fancybox="gallery-espera" href="images/fila5.jpg">
-			</a>
-			<a data-fancybox="gallery-espera" href="images/fila6.jpg">
-			</a>
-			<a data-fancybox="gallery-espera" href="images/fila7.jpg">
-			</a>
-			<div class="caption">La Espera, 7 Zeichnungen, 2014</br></div>
-			<div class="description">
-				Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
-			</div>
+</div>
+<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+	<div class="image-container">
+		<a data-fancybox href="images/strloo.jpg">
+			<img class="image-small" src="images/small/strloo.jpg" alt="Strange Loops">
+		</a>
+		<div class="caption">Strange Loops, Video, 2013</br></div>
+		<div class="description">
+			Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde (entsprechend der Bildfrequenz der Kamera).
 		</div>
 	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox="gallery-Braustelle" href="images/Braustelle.jpg">
-				<img class="image-small" src="images/small/Braustelle.jpg" alt="La Espera">
-			</a>
-			<a data-fancybox="gallery-Braustelle" href="images/Braustelle1.jpg">
-			</a>
-			<a data-fancybox="gallery-Braustelle" href="images/Braustelle2.jpg">
-			</a>
-			<div class="caption">Braustelle, 16mm Film, 4min, 2014</br></div>
-			<div class="description">
-				Der Prozess des Bierbrauens auf 16mm gefilmt, digitalisiert und rückwärts abgespielt. Über den Kurzfilm hinweg wird das Bier "entbraut", die Zutaten entmischt. Ein Irreversibler Prozess wird rückgängig gemacht.
-			</div>
-		</div>
-	</div>
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-			<a data-fancybox href="images/strloo.jpg">
-				<img class="image-small" src="images/small/strloo.jpg" alt="Strange Loops">
-			</a>
-			<div class="caption">Strange Loops, Video, 2013</br></div>
-			<div class="description">
-				Inspiriert von Douglas R. Hofstadters Beschreibung der seltsamen Schleifen befestigte ich eine Kamera auf einem Motor und beschleunigte sie um Achse ihrer Linse auf 25 Umdrehungen pro Sekunde (entsprechend der Bildfrequenz der Kamera).
-			</div>
-		</div>
-	</div>
+</div>
 </div>
 
 {% endblock %}
