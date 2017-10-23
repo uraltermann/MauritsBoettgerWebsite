@@ -41,7 +41,7 @@
                 {% endblock %}
 
                 <div class="footer">
-                  Copyright © <a class="footer__email" href="mailto:maurits.boettger@gmail.com">Maurits Boettger</a>, 2017
+                  Copyright © <a class="footer__email" href="mailto:mauritsboettger@gmail.com">Maurits Boettger</a>, 2017
               </div>
           </div>
       </div>
