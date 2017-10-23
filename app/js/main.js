@@ -2,7 +2,8 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 $(document).ready(() => {
 
-$('.grid').masonry({
+
+var $grid = $('.grid').masonry({
   // options... 
   columnWidth: '.grid-sizer',
   itemSelector: '.grid-item',
@@ -10,4 +11,11 @@ $('.grid').masonry({
 
 });
 
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry('layout');
 });
+
+});
+
+
+
