@@ -2047,6 +2047,18 @@ body {
     content: "";
     clear: both; }
 
+.language_selector {
+  color: #777;
+  font-size: 1.1rem;
+  line-height: 1.3; }
+  @media (min-width: 768px) {
+    .language_selector {
+      float: right; } }
+  .language_selector__email {
+    color: #777; }
+    .language_selector__email:hover {
+      color: crimson; }
+
 .header {
   color: #222;
   display: block;

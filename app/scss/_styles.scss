@@ -28,6 +28,25 @@ body {
 }
 
 
+.language_selector {
+  color: $grey;
+  font-size: $font-size-xs;
+  line-height: 1.3;
+  //margin: $dist-lg 0 $dist-xs;
+
+  @include media-breakpoint-up(md) {
+    float: right;
+  }
+
+  &__email {
+    color: $grey;
+
+    &:hover {
+      color: $hover-color;
+    }
+  }
+}
+
 .header {
   color: $black;
   display: block;

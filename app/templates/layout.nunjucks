@@ -1,12 +1,12 @@
 <!doctype html>
-<html class="no-js" lang="de">
+<html class="no-js" lang={{ language }}>
 <head>
     <!-- Basic Page Needs
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ title }}</title>
-        <meta name="description" content="Maurits Boettger Videokunst, Installationen">
+        <meta name="description" content="Maurits Boettger, {{ content }}">
 
     <!-- Mobile Specific Metas
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->

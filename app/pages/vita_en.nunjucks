@@ -1,0 +1,51 @@
+<!-- index.nunjucks -->
+{% set title = 'Vita Maurits Boettger' %}
+{% set language = 'en' %}
+{% set content = 'Timebased Art' %}
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+                <div class="language_selector">
+                    en <a class="language_selector__email" href="vita.html">de</a> 
+              </div>
+
+<div class="navigation">
+	<a class="page_ul" href="index_en.html">Works</a>
+	<a class="page" href="vita_en.html">Vita</a>
+</div>
+<p>
+</br>
+</br>
+</br>
+Maurits Boettger, born in 1990 in Karlsruhe, Germany, lives and works in cologne</br>
+Studies at Academy of Media Arts Cologne, 2012-2017</br>
+DAAD-Scholarship for studies at Universidad Nacional de Colombia, 2014-2015</br>
+
+</p>
+<p>
+	In his work Maurits Boettger questions processes in perception of time and space. Utilized media is, what surrounds us in everyday life: light, air and time. By slight interventions in those, he aims to make the observer become conscious of his own observation. Furthermore Boettger explores the edge between still- and moving image, continuity and interruption, contrasts and nuances. His works are shows as Video, Apparatus, Installations or interaktive Applications
+</br>
+</br>
+</br>
+</p>
+<p>
+	<b>Solo Exhibition</b></br>
+Aus Zeit, Köln 2017</br>
+</br>
+<b>Group Exhibition</b></br>
+Appdate, Konstanz 2017</br>
+Studionight #2, City Center Studio, Köln 2016</br>
+Cómo, Los Funambulos, Bogotá 2015</br>
+Kunsthoch46, Braunschweig 2014</br>
+Let’s make a Campfire, Rhein, Köln 2013</br>
+A, Jack in the Box, Köln 2013</br>
+</br>
+<b>Festival participation</b></br>
+Generate!°, Shedhalle Tübingen, 2017</br>
+Midbo, Bogotá 2015</br>
+extra, experimental trails, Leipzig 2013</br>
+</p>
+
+
+{% endblock %}
