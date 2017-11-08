@@ -2050,10 +2050,8 @@ body {
 .language_selector {
   color: #777;
   font-size: 1.1rem;
-  line-height: 1.3; }
-  @media (min-width: 768px) {
-    .language_selector {
-      float: right; } }
+  line-height: 1.3;
+  float: right; }
   .language_selector__email {
     color: #777; }
     .language_selector__email:hover {
@@ -2084,7 +2082,7 @@ body {
   cursor: pointer;
   text-decoration: underline; }
   .page_ul:hover {
-    color: #FF0000;
+    color: crimson;
     text-decoration: underline; }
 
 .image-container {

@@ -19,7 +19,7 @@
 	<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox href="images/Girasol.jpg">
+			<a data-fancybox data-caption="Girasol, Apparat, 2017" href="images/Girasol.jpg">
 				<img class="image-small" src="images/small/Girasol.jpg" alt="Girasol">
 			</a>
 			<div class="caption">Girasol, Apparat, 2017</br></div>
@@ -31,7 +31,7 @@
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox href="images/Metrotonom.jpg">
+			<a data-fancybox data-caption="Metrotom, Apparat, 2017" href="images/Metrotonom.jpg">
 				<img class="image-small" src="images/small/Metrotonom.jpg" alt="Metrotonom">
 			</a>
 			<div class="caption">Metrotom, Apparat, 2017</br></div> 
@@ -42,7 +42,7 @@
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox href="images/kontraktion.jpg">
+			<a data-fancybox data-caption="Kontraktion und Dilatation in Herz und Raum, Fotoanimation, 2017" href="images/kontraktion.jpg">
 				<img class="image-small" src="images/small/kontraktion.jpg" alt="Kontraktion und Dilatation in Herz und Raum">
 			</a>
 			<div class="caption">Kontraktion und Dilatation in Herz und Raum, Fotoanimation, 2017</br></div> 
@@ -53,7 +53,7 @@
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox href="images/sand.jpg">
+			<a data-fancybox data-caption="Sanduhr (beschleunigt), Videoschleife, 2017" href="images/sand.jpg">
 				<img class="image-small" src="images/small/sand.jpg" alt="Sanduhr (beschleunigt)">
 			</a>
 			<div class="caption">Sanduhr (beschleunigt), Videoschleife, 2017</br></div> 
@@ -64,7 +64,7 @@
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox href="images/watch.jpg">
+			<a data-fancybox data-caption="Watch, Apparat, 2017" href="images/watch.jpg">
 				<img class="image-small" src="images/small/watch.jpg" alt="Watch">
 			</a>
 			<div class="caption">Watch, Apparat, 2017</br></div> 
@@ -75,7 +75,7 @@
 	</div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-			<a data-fancybox href="images/flip.jpg">
+			<a data-fancybox data-caption="Coincidence, Videoschleife, 2016" href="images/flip.jpg">
 				<img class="image-small" src="images/small/flip.jpg" alt="Coincidence (on the flip of a coin)">
 			</a>
 			<div class="caption">Coincidence, Videoschleife, 2016</br></div>
@@ -87,12 +87,12 @@
 </div>
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
-		<a data-fancybox="gallery-tigers" href="images/tigers.jpg">
+		<a data-fancybox="gallery-tigers" data-caption="Standbild aus dem Video Tigers of the Past" href="images/tigers.jpg">
 			<img class="image-small" src="images/small/tigers.jpg" alt="Tigers of the Past">
 		</a>
-		<a data-fancybox="gallery-tigers" href="images/tigers2.jpg">
+		<a data-fancybox="gallery-tigers" data-caption="Standbild aus dem Video Tigers of the Past" href="images/tigers2.jpg">
 		</a>
-		<a data-fancybox="gallery-tigers" href="images/tigers1.jpg">
+		<a data-fancybox="gallery-tigers" data-caption="Standbild aus dem Video Tigers of the Past" href="images/tigers1.jpg">
 		</a>
 		<div class="caption">Tigers of the Past, Film, 2016</br></div>
 		<div class="description">
@@ -102,7 +102,7 @@
 </div>
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
-		<a data-fancybox href="images/audiotekt.jpg">
+		<a data-fancybox data-caption="Audiotekt am Rundgang der Kunsthochschule für Medien" href="images/audiotekt.jpg">
 			<img class="image-small" src="images/small/audiotekt.jpg" alt="Audiotekt">
 		</a>
 		<div class="caption">Audiotekt, Android Application, 2016</br></div>
@@ -113,12 +113,12 @@
 </div>
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
-		<a data-fancybox="gallery-VT" href="images/vth.jpg">
+		<a data-fancybox="gallery-VT" data-caption="Standbild aus Video nednibettawarK, VThcierflih" href="images/vth.jpg">
 			<img class="image-small" src="images/small/vth.jpg" alt="Vthcierflih">
 		</a>
-		<a data-fancybox="gallery-VT" href="images/vth1.jpg">
+		<a data-fancybox="gallery-VT" data-caption="Standbild aus Video nedienhcs lebeiwZ, VThcierflih" href="images/vth1.jpg">
 		</a>
-		<a data-fancybox="gallery-VT" href="images/vth2.jpg">
+		<a data-fancybox="gallery-VT" data-caption="Standbild aus Video nehcsim netraK, VThcierflih" href="images/vth2.jpg">
 		</a>
 		<div class="caption">VThcierflih, 7 Videos, 2016</br></div>
 		<div class="description">
@@ -128,10 +128,10 @@
 </div>
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
-		<a data-fancybox="gallery-warten" href="images/Wartezeit.jpg">
+		<a data-fancybox="gallery-warten" data-caption="Standbild aus dem Film Wartezeit" href="images/Wartezeit.jpg">
 			<img class="image-small" src="images/small/Wartezeit.jpg" alt="La Espera">
 		</a>
-		<a data-fancybox="gallery-warten" href="images/Wartezeit2.jpg"></a>
+		<a data-fancybox="gallery-warten" data-caption="Standbild aus dem Film Wartezeit" href="images/Wartezeit2.jpg"></a>
 		<a class="caption">Wartezeit, Film, 2015</br></a>
 		<div class="description">
 		11 Minuten und 49 Sekunden</br>Ein Essayfilm über das Warten, entstanden in Kolumbien</div>
@@ -139,21 +139,22 @@
 </div>
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
-		<a data-fancybox="gallery-espera" href="images/fila1.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 1" href="images/fila1.jpg">
 			<img class="image-small" src="images/small/fila1.jpg" alt="La Espera">
 		</a>
-		<a data-fancybox="gallery-espera" href="images/fila2.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 2" href="images/fila7.jpg">
 		</a>
-		<a data-fancybox="gallery-espera" href="images/fila3.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 3" href="images/fila3.jpg">
 		</a>
-		<a data-fancybox="gallery-espera" href="images/fila4.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 4" href="images/fila5.jpg">
 		</a>
-		<a data-fancybox="gallery-espera" href="images/fila5.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 5" href="images/fila6.jpg">
 		</a>
-		<a data-fancybox="gallery-espera" href="images/fila6.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 6" href="images/fila2.jpg">
 		</a>
-		<a data-fancybox="gallery-espera" href="images/fila7.jpg">
+		<a data-fancybox="gallery-espera" data-caption="La Espera, Nr. 7" href="images/fila4.jpg">
 		</a>
+
 		<div class="caption">La Espera, 7 Zeichnungen, 2014</br></div>
 		<div class="description">
 			Die langen Schlangen wartender Menschen in Kolumbien lieferten die Inspiration zu der Serie La Espera. Die Tintentropfen, von der Schwerkraft angezogen, zeichneten die Figuren. Das Papier wurde anschließend um 180 Grad gedreht.
@@ -162,7 +163,7 @@
 </div>
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
-		<a data-fancybox href="images/strloo.jpg">
+		<a data-fancybox data-caption="Standbild aus dem Video Strange Loops" href="images/strloo.jpg">
 			<img class="image-small" src="images/small/strloo.jpg" alt="Strange Loops">
 		</a>
 		<div class="caption">Strange Loops, Video, 2013</br></div>
