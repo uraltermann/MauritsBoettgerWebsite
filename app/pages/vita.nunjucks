@@ -1,4 +1,4 @@
-<!-- index.nunjucks -->
+U<!-- index.nunjucks -->
 {% set title = 'Biografie Maurits Boettger' %}
 {% set language = 'de' %}
 {% set content = 'Zeitbasierte Kunst' %}
@@ -13,40 +13,62 @@
 <div class="navigation">
 	<a class="page_ul" href="index.html">Werke</a>
 	<a class="page" href="vita.html">Biografie</a>
+	<!-- <a class="page_ul" href="now.html">Aktuell</a> -->
 </div>
 <p>
 </br>
 </br>
 </br>
-Geboren 1990 in Karlsruhe, lebt und arbeitet in Köln</br>
-Studium an der Kunsthochschule für Medien Köln, 2012-2017 </br>
-DAAD-Auslandsstudium an der Universidad Nacional de Colombia, 2014</br>
+Geboren 1990 in Karlsruhe, lebt und arbeitet im Raum mit Zeit</br>
+2012-2017 Kunsthochschule für Medien Köln</br>
+2014 Universidad Nacional de Colombia, Bogotá</br>
 
 </p>
 <p>
 	In seiner Arbeit hinterfragt Maurits Boettger Prozesse in der Wahrnehmung.
-	Er verändert die uns täglich umgebenden Medien Licht, Luft und Zeit, um dem Betrachter seine Wahrnehmung bewusst zu machen. Des Weiteren erkundet er die Grenze zwischen Stand- und Bewegtbild, Kontinuität und Unterbrechung, Kontrast und Nuance. Seine Arbeiten werden als Video, Apparate, Installationen oder interaktive Apps gezeigt.
+Er dekonstruiert Informationsträger wie Licht, Ton, Luft und ermöglicht durch gezielte Eingriffe Perspektivwechsel, die den Betrachter seiner Wahrnehmung bewusst werden lassen. Auch die Zeit behandelt Boettger wie ein Medium. Auf spielerische Art werden kosmische, biologische und physikalische Zeitmesser manipuliert und machen Zeit anders erfahrbar. Seine Arbeiten werden als Videos, Apparate, Installationen oder interaktive Apps gezeigt.
 </br>
 </br>
 </br>
 </p>
 <p>
-	<b>Einzelausstellungen</b></br>
-Aus Zeit, Köln 2017</br>
+	<b>Einzelausstellungen</b></br></br>
+März 2017 &#160; &#160; Aus Zeit, Hybrid Space Lab, Köln</br>
 </br>
-<b>Gruppenausstellungen</b></br>
-Appdate, Konstanz 2017</br>
-Studionight #2, City Center Studio, Köln 2016</br>
-Cómo, Los Funambulos, Bogotá 2015</br>
-Kunsthoch46, Braunschweig 2014</br>
-Let’s make a Campfire, Rhein, Köln 2013</br>
-A, Jack in the Box, Köln 2013</br>
 </br>
-<b>Festivalteilnahmen</b></br>
-Generate!°, Shedhalle Tübingen, 2017</br>
-Midbo, Bogotá 2015</br>
-extra, experimental trails, Leipzig 2013</br>
-</p>
+<b>Gruppenausstellungen</b></br></br>
+Sep. 2018   &#160; &#160; Urgent Perspectives #2, PARALLEL VIENNA</br>
+Juli 2018   &#160; &#160; &#160; The Long Now, me Collectors Room Berlin</br>
+März 2018   &#160; &#160; The Long Now, Kunstverein Bochum</br>
+März 2018	&#160; &#160; The Long Now, Museum Goch</br>
+Jan. 2017  	&#160;&#160; &#160; &#160;Appdate, Neuwerk Konstanz</br>
+Nov. 2016	&#160; &#160; &#160;Studionight #2, City Center Studio, Köln</br>
+Feb. 2015	&#160; &#160; &#160;Cómo, Los Funambulos, Bogotá</br>
+April 2014	&#160; &#160; &#160;Kunsthoch46, raumLABOR, Braunschweig</br>
+Dez. 2013	&#160; &#160; &#160;Let’s make a Campfire, Köln</br>
+Juni 2013	&#160;&#160; &#160; &#160;A, Jack in the Box, Köln</br>
+</br>
+</br>
+<b>Festivalteilnahmen</b></br></br>
+April 2018	&#160; &#160; &#160;European Media Art Festival No 31, Osnabrück</br>
+Okt. 2017	&#160;&#160; &#160; &#160;Generate, Shedhalle Tübingen</br>
+Nov. 2016	&#160; &#160; &#160;Midbo, Bogotá</br>
+Nov. 2013	&#160; &#160; &#160;extra, experimental trails, Leipzig</br>
+</br>
+</br>
 
+
+<b>Stipendien</b></br></br>
+
+Jan. 2019   &#160;&#160;&#160; &#160;&#160;Auslandsstipendium des Ministeriums für Kultur und Wissenschaft NRW, Peru</br>
+Juli 2018	&#160;&#160;&#160; &#160; &#160;Artist-in-Residence Programm KulturKontakt Austria, Wien</br>
+Aug. 2014	&#160; &#160; &#160;DAAD-Stipendium für ein Semester an der Universidad Nacional de Colombia</br>
+</p>
+<div class="footer">
+                    <a class="footer__daten" href="/datenschutz.html">Datenschutzerklärung</a>
+                    <a class="footer__daten" href="/impressum.html">Impressum</a>
+                    <div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
+                    </div>
+                </div>
 
 {% endblock %}

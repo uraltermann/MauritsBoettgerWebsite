@@ -39,12 +39,12 @@
                 {% block content %} 
 
                 {% endblock %}
-
-                <div class="footer">
-                    Copyright © <a class="footer__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2017
+                
+                <!-- <div class="daten">-->
+                 
+                  <!-- </div>-->
               </div>
           </div>
-      </div>
 
     <!-- JS
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->

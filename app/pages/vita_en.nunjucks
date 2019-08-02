@@ -13,39 +13,63 @@
 <div class="navigation">
 	<a class="page_ul" href="index_en.html">Works</a>
 	<a class="page" href="vita_en.html">Vita</a>
+	<!-- <a class="page_ul" href="now_en.html">Current</a> -->
 </div>
 <p>
 </br>
 </br>
 </br>
-Maurits Boettger, born in 1990 in Karlsruhe, Germany, lives and works in cologne</br>
-Studies at Academy of Media Arts Cologne, 2012-2017</br>
-DAAD-Scholarship for studies at Universidad Nacional de Colombia, 2014</br>
+Maurits Boettger, born in 1990 in Karlsruhe, Germany, lives and works with time in space</br>
+2012-2017 Studies at Academy of Media Arts Cologne</br>
+2014 Studies at Universidad Nacional de Colombia</br>
 
 </p>
 <p>
-	In his work Maurits Boettger questions processes in perception of time and space. Utilized media is, what surrounds us in everyday life: light, air and time. By slight interventions in those, he aims to make the observer become conscious of his own perception. Furthermore Boettger explores the edge between still- and moving image, continuity and interruption, contrasts and nuances. His works are shows as Video, Apparatus, Installations or interaktive Applications
+	In his work Maurits Boettger questions processes in perception of time and space. He deconstructs information carriers such as light, sound, air and through targeted interventions, allows changes in perspective that make the observer aware of his perception. Boettger treats time like a medium. In a playful way he manipulates cosmic, biological and physical timepieces so they allow time to be experienced differently. His works are shows as video, apparatus, installations or interaktive applications
 </br>
 </br>
 </br>
 </p>
 <p>
-	<b>Solo Exhibition</b></br>
-Aus Zeit, Köln 2017</br>
+
+	<b>Solo Exhibition</b></br></br>
+Mar. 2017 &#160; &#160; Aus Zeit, Hybrid Space Lab, Cologne</br>
 </br>
-<b>Group Exhibition</b></br>
-Appdate, Konstanz 2017</br>
-Studionight #2, City Center Studio, Köln 2016</br>
-Cómo, Los Funambulos, Bogotá 2015</br>
-Kunsthoch46, Braunschweig 2014</br>
-Let’s make a Campfire, Rhein, Köln 2013</br>
-A, Jack in the Box, Köln 2013</br>
 </br>
-<b>Festival participation</b></br>
-Generate!°, Shedhalle Tübingen, 2017</br>
-Midbo, Bogotá 2015</br>
-extra, experimental trails, Leipzig 2013</br>
+<b>Group Exhibition</b></br></br>
+Sep. 2018   &#160;&#160; Urgent Perspectives #2, PARALLEL VIENNA</br>
+July 2018   &#160; &#160; The Long Now, me Collectors Room Berlin</br>
+Mar. 2018   &#160; &#160; The Long Now, Kunstverein Bochum</br>
+Mar. 2018	&#160; &#160; The Long Now, Museum Goch</br>
+Jan. 2017  	&#160;&#160; &#160;&#160;Appdate, Neuwerk Konstanz</br>
+Nov. 2016	&#160; &#160;&#160;Studionight #2, City Center Studio, Cologne</br>
+Feb. 2015	&#160; &#160;&#160;Cómo, Los Funambulos, Bogotá</br>
+April 2014	&#160; &#160;&#160;Kunsthoch46, raumLABOR, Braunschweig</br>
+Dec. 2013	&#160; &#160;&#160;Let’s make a Campfire, Cologne</br>
+June 2013	&#160;&#160;&#160;&#160;A, Jack in the Box, Cologne</br>
+</br>
+</br>
+<b>Festival participation</b></br></br>
+April 2018	&#160; &#160;&#160;European Media Art Festival No 31, Osnabrück</br>
+Oct. 2017	&#160;&#160;&#160; &#160;Generate, Shedhalle Tübingen</br>
+Nov. 2016	&#160; &#160;&#160;Midbo, Bogotá</br>
+Nov. 2013	&#160; &#160;&#160;extra, experimental trails, Leipzig</br>
+</br>
+</br>
+
+
+<b>Scholarships</b></br></br>
+
+Jan. 2019   &#160;&#160;&#160;&#160; Scholarship for highly talented artists of the Ministry of Culture and Science North Rhine Westphalia</br>
+July 2018	&#160;&#160;&#160;&#160; Artist-in-Residence at KulturKontakt Austria, Vienna</br>
+Aug. 2014	&#160; &#160;&#160;DAAD-Scholarship for studies at Universidad Nacional de Colombia</br>
 </p>
+<div class="footer">
+                    <a class="footer__daten" href="/privacypolicy.html">Privacy Policy</a>
+                    <a class="footer__daten" href="/impressum.html">Impressum</a>
+                    <div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
+                    </div>
+                </div>
 
 
 {% endblock %}

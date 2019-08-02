@@ -1,0 +1,42 @@
+<!-- index.nunjucks -->
+{% set title = 'Current Exhibitions Maurits Boettger' %}
+{% set language = 'en' %}
+{% set content = 'Timebased Art' %}
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+                <div class="language_selector">
+                    en <a class="language_selector__email" href="now.html">de</a> 
+              </div>
+
+<div class="navigation">
+	<a class="page_ul" href="index_en.html">Works</a>
+	<a class="page_ul" href="vita_en.html">Vita</a>
+	<!-- <a class="page" href="now_en.html">Current</a> -->
+</div>
+<p>
+</br>
+</br>
+</br>
+
+<b>Current</b></br>
+</br>
+08.07. - 15.10.2018  &#160; &#160; <a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">The Long Now, me Collectors Room Berlin</a></br>
+<div class="image-container">
+            <a data-fancybox data-caption="The Long Now" href="images/tln.jpg">
+                <img class="image-small" src="images/tln.jpg" alt="The Long Now">
+            </a></div>
+</br>
+</br>
+</p>
+<div class="footer">
+                    <a class="footer__daten" href="/privacypolicy.html">Privacy Policy</a>
+                    <a class="footer__daten" href="/impressum.html">Impressum</a>
+                    <div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
+                    </div>
+                </div>
+
+
+
+{% endblock %}

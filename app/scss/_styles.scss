@@ -64,7 +64,32 @@ font-size: $font-size-md;
   text-decoration: none; //no link highlighting
 }
 
+.ul {
+font-size: $font-size-base;
+  color: $black;
+  cursor: pointer;
+  text-decoration: underline;
+
+  &:hover {
+    color: $hover-color;
+    text-decoration: underline;
+  }
+}
+
+
 .page_ul {
+font-size: $font-size-md;
+  color: $black;
+  cursor: pointer;
+  text-decoration: underline;
+
+  &:hover {
+    color: $hover-color;
+    text-decoration: underline;
+  }
+}
+
+.links {
 font-size: $font-size-md;
   color: $black;
   cursor: pointer;
@@ -109,20 +134,38 @@ font-size: $font-size-md;
 }
 
 .footer {
+
   color: $grey;
   font-size: $font-size-xs;
   line-height: 1.3;
-  margin: $dist-lg 0 $dist-xs;
+  margin: $dist-lg 0 0 0;
 
-  @include media-breakpoint-up(md) {
-    float: right;
-  }
-
-  &__email {
+  &__clean {
     color: $grey;
+    margin: 0 0 $dist-xs 0;
+    @include media-breakpoint-up(md) {
+      float: right;
+    }
 
+      &__email {
+    color: $grey;
     &:hover {
       color: $hover-color;
     }
   }
+  }
+
+  &__daten {
+  color: $grey;
+  margin: 0 $dist-xs $dist-xs 0;
+    &:hover {
+    color: $hover-color;
+  }
+
+  @include media-breakpoint-up(md) {
+    float: left;
+  }
+  
 }
+}
+

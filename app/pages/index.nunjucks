@@ -13,10 +13,75 @@
 <div class="navigation">
 	<a class="page" href="index.html">Werke</a>
 	<a class="page_ul" href="vita.html">Biografie</a>
+	<!-- <a class="page_ul" href="now.html">Aktuell</a> -->
 </div>	
 
 <div class="grid row">
 	<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
+
+
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
+		<a data-fancybox="gallery-TSL" data-caption="Mit Herz und Hand, Standbild aus Video" href="images/herzundhand.jpg">
+			<img class="image-small" src="images/small/herzundhand_small.jpg" alt="With Heart and Hand">
+		</a>
+		<a data-fancybox="gallery-TSL" data-caption="Mit Herz und Hand, Standbild aus Video" href="images/herzundhand.jpg">
+		</a>
+
+			<div class="caption">Mit Herz und Hand, Video, 2019</br></div>
+			<div class="description">Das Video einer Kamera, die auf eine Uhr gerichtet ist. Mein Puls erschüttert die Kamera wodurch Wechselbeziehung zwischen Bild und Sekundenzeiger der Uhr hergestellt wird.
+			</div>
+		</div>
+	</div>
+
+
+			<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL.jpg">
+			<img class="image-small" src="images/small/TSL.jpg" alt="Nichts als Zeit">
+		</a>
+		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL1.jpg">
+		</a>
+		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL2.jpg">
+		</a>
+		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL3.jpg">
+		</a>
+		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL4.jpg">
+		</a>
+			
+			<div class="caption">Nichts als Zeit, Performance, 2018</br></div>	
+			<div class="description">Das Unternehmen Time Sales Ltd. verkauft Zeit, das flüchtigste Werk aller Zeit. Nach der Wahl von Verwendungszweck und Menge bestimmt der Kunde den Wert seiner Zeit. <a class="description" href="https://vimeo.com/299181671">Video</a>
+			</div>
+		</div>
+	</div>
+
+
+		
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+			<a data-fancybox data-caption="Echtzeitverzögerung, Performance, 2018" href="images/slowdown.jpg">
+				<img class="image-small" src="images/small/slowdown.jpg" alt="Echtzeitverzögerung">
+			</a>
+			<div class="caption">Echtzeitverzögerung, Intervention, 2018</br></div>
+			<div class="description">Zu hören ist die Eröffnungsrede einer Ausstellung. Einmal im Original und gleichzeitig leicht verzögert über Lautsprecher. Zu Beginn ist der Rede noch leicht zu folgen, jedoch nimmt die Verzögerung im Laufe der Zeit zu und so wird es mit zunehmender Abweichung der Tonspuren immer schwieriger die Rede zu verstehen.
+			</div>
+		</div>
+	</div>
+		
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+			<a data-fancybox data-caption="Fremdzeit, Installation, 2018" href="images/pochenderraum.jpg">
+				<img class="image-small" src="images/small/pochenderraum.jpg" alt="Fremdzeit">
+			</a>
+			<div class="caption">Fremdzeit, Installation, 2018</br></div>
+			<div class="description">Der Puls eines Menschen übertragen auf einen Raum. Akustische und haptische Reize ermöglichen die Synchronisation des Herzschlags mit dem des abwesenden Subjekts.
+				
+			</div>
+		</div>
+	</div>
+	
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox data-caption="Girasol, Apparat, 2017" href="images/Girasol.jpg">
@@ -25,7 +90,7 @@
 			<div class="caption">Girasol, Apparat, 2017</br></div>
 			<div class="description">
 				Eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft. <a class="description" href="http://abweichungenausderzeit.de/">Abweichungen aus der Zeit</a>
-				
+			
 			</div>
 		</div>
 	</div>
@@ -173,5 +238,12 @@
 	</div>
 </div>
 </div>
+<div class="footer">
+                    <a class="footer__daten" href="/datenschutz.html">Datenschutzerklärung</a>
+                    <a class="footer__daten" href="/impressum.html">Impressum</a>
+                    <div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
+                    </div>
+                </div>
+                </div>
 
 {% endblock %}
