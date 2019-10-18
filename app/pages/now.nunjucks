@@ -13,7 +13,7 @@
 <div class="navigation">
 	<a class="page_ul" href="index.html">Werke</a>
 	<a class="page_ul" href="vita.html">Biografie</a>
-	<!-- <a class="page" href="now.html">Aktuell</a> -->
+	<a class="page" href="now.html">Aktuell</a>
 </div>
 <p>
 </br>
@@ -23,12 +23,12 @@
 
 <b>Aktuell</b></br>
 </br>
-
-08.07. - 15.10.2018  &#160; &#160; <a class="links" href="https://www.me-berlin.com/the-long-now/lang/de/">The Long Now, me Collectors Room Berlin</a></br>
-<div class="image-container">
+28.10. - 3.11.2019  &#160; &#160; <!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
+Virtuelle Residency bei <i>bi</i>-PARADISE in Matsudo, Japan</a></br>
+<!--<div class="image-container">
             <a data-fancybox data-caption="The Long Now" href="images/tln.jpg">
                 <img class="image-small" src="images/tln.jpg" alt="The Long Now">
-            </a></div>
+            </a></div>-->
 </br>
 </br>
 </p>
