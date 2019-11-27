@@ -73,7 +73,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox data-caption="Fremdzeit, Installation, 2018" href="images/pochenderraum.jpg">
-				<img class="image-small" src="images/small/pochenderraum.jpg" alt="Fremdzeit">
+				<img class="image-small" src="images/small/fremdzeit.gif" alt="Fremdzeit">
 			</a>
 			<div class="caption">Fremdzeit, Installation, 2018</br></div>
 			<div class="description">Der Puls eines Menschen übertragen auf einen Raum. Akustische und haptische Reize ermöglichen die Synchronisation des Herzschlags mit dem des abwesenden Subjekts.
@@ -179,7 +179,7 @@
 <div class="grid-item col-sm-6 col-md-4 col-lg-3">
 	<div class="image-container">
 		<a data-fancybox="gallery-VT" data-caption="Standbild aus Video nednibettawarK, VThcierflih" href="images/vth.jpg">
-			<img class="image-small" src="images/small/vth.jpg" alt="Vthcierflih">
+			<img class="image-small" src="images/small/nednibettawarK.gif" alt="Vthcierflih">
 		</a>
 		<a data-fancybox="gallery-VT" data-caption="Standbild aus Video nedienhcs lebeiwZ, VThcierflih" href="images/vth1.jpg">
 		</a>
