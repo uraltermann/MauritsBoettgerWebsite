@@ -6,9 +6,9 @@
 
 {% block content %}
 
-                <div class="language_selector">
-                    de <a class="language_selector__email" href="index_en.html">en</a> 
-              </div>
+<div class="language_selector">
+	de <a class="language_selector__email" href="index_en.html">en</a> 
+</div>
 
 <div class="navigation">
 	<a class="page" href="index.html">Werke</a>
@@ -17,15 +17,15 @@
 </div>	
 
 <div class="grid row">
-<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
+	<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
 
 
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
-		<a data-fancybox="gallery-flag" data-caption="Die Flagge" href="images/big.jpg">
-			<img class="image-small" src="images/small/small.jpg" alt="Die Flagge">
-		</a>
+			<a data-fancybox="gallery-flag" data-caption="Die Flagge" href="images/big.jpg">
+				<img class="image-small" src="images/small/flag.gif" alt="Die Flagge">
+			</a>
 
 			<div class="caption">Way to Warmth, Installation, 2019</br></div>
 			<div class="description">Eine Flagge, die in Richtung Wärme weist. 
@@ -36,12 +36,11 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
-		<a data-fancybox="gallery-Spieluhr" data-caption="Die Spieluhr und der Künstler in Köln" href="images/spieluhr1.jpg">
-			<img class="image-small" src="images/small/spieluhr1.jpg" alt="Die Spieluhr und der Künstler in Köln">
-		</a>
-		<a data-fancybox="gallery-Spieluhr" data-caption="Die Spieluhr und der Künstler in Köln" href="images/spieluhr2.jpg">
-		</a>
-
+			<a data-fancybox="gallery-Spieluhr" data-caption="Die Spieluhr und der Künstler in Köln" href="images/spieluhr1.jpg">
+				<img class="image-small" src="images/small/spieluhr1.jpg" alt="Die Spieluhr und der Künstler in Köln">
+			</a>
+			<a data-fancybox="gallery-Spieluhr" data-caption="Die Spieluhr und der Künstler in Köln" href="images/spieluhr2.jpg">
+			</a>
 
 			<div class="caption">Spieluhr, Instrument, 2019</br></div>
 			<div class="description">Ein Instrument zur spielerischen Produktion von Zeit. <a class="description" href="https://vimeo.com/378100926">Video</a>
@@ -53,11 +52,11 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
-		<a data-fancybox="gallery-HH" data-caption="Mit Herz und Hand, Standbild aus Video" href="images/herzundhand.jpg">
-			<img class="image-small" src="images/small/herzundhand_small.jpg" alt="With Heart and Hand">
-		</a>
-		<a data-fancybox="gallery-HH" data-caption="Mit Herz und Hand, Standbild aus Video" href="images/herzundhand.jpg">
-		</a>
+			<a data-fancybox="gallery-HH" data-caption="Mit Herz und Hand, Standbild aus Video" href="images/herzundhand.jpg">
+				<img class="image-small" src="images/small/herzundhand_small.jpg" alt="With Heart and Hand">
+			</a>
+			<a data-fancybox="gallery-HH" data-caption="Mit Herz und Hand, Standbild aus Video" href="images/herzundhand.jpg">
+			</a>
 
 			<div class="caption">Mit Herz und Hand, Video, 2019</br></div>
 			<div class="description">Das Video einer Kamera, die auf eine Uhr gerichtet ist. Mein Puls erschüttert die Kamera wodurch Wechselbeziehung zwischen Bild und Sekundenzeiger der Uhr hergestellt wird.
@@ -66,20 +65,19 @@
 	</div>
 
 
-			<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
-		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL.jpg">
-			<img class="image-small" src="images/small/tsl1.gif" alt="Nichts als Zeit">
-		</a>
-		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL1.jpg">
-		</a>
-		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL2.jpg">
-		</a>
-		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL3.jpg">
-		</a>
-		<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL4.jpg">
-		</a>
+			<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL.jpg">
+				<img class="image-small" src="images/small/tsl1.gif" alt="Nichts als Zeit">
+			</a>
+			<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL1.jpg">
+			</a>
+			<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL2.jpg">
+			</a>
+			<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL3.jpg">
+			</a>
+			<a data-fancybox="gallery-TSL" data-caption="Nichts als Zeit @PARALLEL VIENNA, 2018" href="images/TSL4.jpg">
+			</a>
 			
 			<div class="caption">Nichts als Zeit, Performance, 2018</br></div>	
 			<div class="description">Das Unternehmen Time Sales Ltd. verkauft Zeit, das flüchtigste Werk aller Zeit. Nach der Wahl von Verwendungszweck und Menge bestimmt der Kunde den Wert seiner Zeit. <a class="description" href="https://vimeo.com/299181671">Video</a>
@@ -88,7 +86,7 @@
 	</div>
 
 
-		
+	
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox data-caption="Echtzeitverzögerung, Performance, 2018" href="images/slowdown.jpg">
@@ -99,7 +97,7 @@
 			</div>
 		</div>
 	</div>
-		
+	
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox data-caption="Fremdzeit, Installation, 2018" href="images/pochenderraum.jpg">
@@ -120,7 +118,7 @@
 			<div class="caption">Girasol, Apparat, 2017</br></div>
 			<div class="description">
 				Eine Sonnenuhr, die sich weigert das Vergehen der Zeit anzuzeigen indem sie sich immer zur Sonne ausrichtet und so zu keiner Zeit einen Schatten auf das Ziffernblatt wirft. <a class="description" href="http://abweichungenausderzeit.de/">Abweichungen aus der Zeit</a>
-			
+				
 			</div>
 		</div>
 	</div>
@@ -232,9 +230,9 @@
 		</a>
 		<a class="caption">Luftpfützengesichter, Installation, 2015</br></a>
 		<div class="description">
-		Ein Hohlspiegel in Kombination mit einem Teleskop ermöglichen den Zuschauer*Innen sich selbst in einer Luftspiegelung zu sehen.
-	<a class="description" href="https://vimeo.com/369160622">Video</a>
-</div>
+			Ein Hohlspiegel in Kombination mit einem Teleskop ermöglichen den Zuschauer*Innen sich selbst in einer Luftspiegelung zu sehen.
+			<a class="description" href="https://vimeo.com/369160622">Video</a>
+		</div>
 	</div>
 </div>
 
@@ -287,11 +285,11 @@
 </div>
 </div>
 <div class="footer">
-                    <a class="footer__daten" href="/datenschutz.html">Datenschutzerklärung</a>
-                    <a class="footer__daten" href="/impressum.html">Impressum</a>
-                    <div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
-                    </div>
-                </div>
-                </div>
+	<a class="footer__daten" href="/datenschutz.html">Datenschutzerklärung</a>
+	<a class="footer__daten" href="/impressum.html">Impressum</a>
+	<div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
+	</div>
+</div>
+</div>
 
 {% endblock %}
