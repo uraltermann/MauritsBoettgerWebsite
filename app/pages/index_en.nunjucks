@@ -23,14 +23,28 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
+		<a data-fancybox="gallery-flag" data-caption="The flag" href="images/big.jpg">
+			<img class="image-small" src="images/small/small.jpg" alt="The flag">
+		</a>
+
+			<div class="caption">Way to Warmth, Installation, 2019</br></div>
+			<div class="description">A flag pointing towards warmth.
+			</div>
+		</div>
+	</div>
+
+
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
 		<a data-fancybox="gallery-Spieluhr" data-caption="The Music Box and the Artist in Cologne" href="images/spieluhr1.jpg">
 			<img class="image-small" src="images/small/spieluhr1.jpg" alt="The Music Box and the Artist in Cologne">
 		</a>
 		<a data-fancybox="gallery-Spieluhr" data-caption="The Music Box and the Artist in Cologne" href="images/spieluhr2.jpg">
 		</a>
 
-			<div class="caption">Spieluhr, Apparatus, 2019</br></div>
-			<div class="description">Tick..tack..tick..tack.. that's the sound of this music box on the wheeled walker. <a class="description" href="https://vimeo.com/378100926">Video</a>
+			<div class="caption">Spieluhr, Instrument, 2019</br></div>
+			<div class="description">An instrument for the playful production of time. <a class="description" href="https://vimeo.com/378100926">Video</a>
 			</div>
 		</div>
 	</div>
