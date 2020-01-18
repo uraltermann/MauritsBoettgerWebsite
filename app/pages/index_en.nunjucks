@@ -19,6 +19,58 @@
 <div class="grid row">
 	<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
 
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass0.jpg">
+				<img class="image-small" src="images/small/litfass_small.jpg" alt="One out of the 25 art columns showing 360° Stillstand">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass7.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass1.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass2.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass3.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass4.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass9.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass6.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="Placing the poster on the column" href="images/litfass8.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass14.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass10.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass11.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass12.jpg">
+			</a>
+
+			<a data-fancybox="gallery-litfass" data-caption="One out of the 25 art columns showing 360° Stillstand" href="images/litfass13.jpg">
+			</a>
+
+			<div class="caption">360° Stillstand, Posters on advertising columns, 2020</br></div>
+			<div class="description">The Installation freezes time locally on 25 advertising columns in cologne by wrapping them in posters of the immediate surroundings.
+			</div>
+		</div>
+	</div>
+
 
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
