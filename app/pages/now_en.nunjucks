@@ -1,7 +1,7 @@
 <!-- index.nunjucks -->
 {% set title = 'Current Exhibitions Maurits Boettger' %}
 {% set language = 'en' %}
-{% set content = 'Timebased Art' %}
+{% set content = 'Time Based Art' %}
 {% extends "layout.nunjucks" %}
 
 {% block content %}
