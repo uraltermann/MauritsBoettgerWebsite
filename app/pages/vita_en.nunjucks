@@ -60,12 +60,6 @@ Jan. 2019   &#160;&#160;&#160;&#160; Scholarship for highly talented artists of 
 July 2018	&#160;&#160;&#160;&#160; Artist-in-Residence at KulturKontakt Austria, Vienna</br>
 Aug. 2014	&#160; &#160;&#160;DAAD-Scholarship for studies at Universidad Nacional de Colombia</br>
 </p>
-<div class="footer">
-                    <a class="footer__daten" href="/privacypolicy.html">Privacy Policy</a>
-                    <a class="footer__daten" href="/impressum.html">Impressum</a>
-                    <div class="footer__clean"> Copyright © <a class="footer__clean__email" href="mailto:contact@mauritsboettger.com">Maurits Boettger</a>, 2018
-                    </div>
-                </div>
-
+{% include "footer_en.nunjucks" %}
 
 {% endblock %}
