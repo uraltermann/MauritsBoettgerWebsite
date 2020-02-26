@@ -6,37 +6,23 @@
 
 {% block content %}
 
-                <div class="language_selector">
-                    de <a class="language_selector__email" href="now_en.html">en</a> 
-              </div>
+<div class="language_selector">
+de <a class="language_selector__email" href="now_en.html">en</a> 
+</div>
 
 {% include "navigation.nunjucks" %}
 
-<p>
+<div class="caption">15.01 - 15.04, 2020</div>
+<div class="description">360° Stillstand. Plakate an 25 Litfaßsäulen in Köln. <a class="description" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Pressemeldung</a></div>
+{% include "map.nunjucks" %}
 </br>
 </br>
 </br>
-
-
-<b>Aktuell</b></br>
-</br>
-15.01 - 15.03, 2020   &#160; &#160; &#160; &#160;<!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
-360° Stillstand. Plakate an 25 Litfaßsäulen in Köln.</a>
-<a class="links" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Pressemeldung</a></br>
-</br>
-<iframe src="https://www.google.com/maps/d/embed?mid=1Gsl4n0RnKT8rGCkU30FvcOo1-KP-1d4P" width="640" height="480"></iframe>
+<div class="caption">28.02 - 29.02, 2020</div>
+<div class="description content-container">+1, Gruppenausstellung in der Niehler Freiheit e.V., Köln mit Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</div>
 </br>
 </br>
 </br>
-
-<b>Demnächst</b></br>
-</br>
-28.02 - 29.02, 2020   &#160; &#160; &#160; &#160;<!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
-+1, Gruppenausstellung in der Niehler Freiheit e.V., Köln mit Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</a></br>
-</br>
-</br>
-</br>
-</p>
 {% include "footer.nunjucks" %}
 
 

@@ -12,10 +12,6 @@
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- FONT
-        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
     <!-- CSS
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <!--build:css css/styles.min.css-->
@@ -38,9 +34,9 @@
 
                 
 
-                <div class="language_selector">
-                    de <a class="language_selector__email" href="now_en.html">en</a> 
-              </div>
+<div class="language_selector">
+de <a class="language_selector__email" href="now_en.html">en</a> 
+</div>
 
 <div class="navigation">
   <a class="page " href="index.html">Werke</a>
@@ -48,31 +44,148 @@
   <a class="page page--active" href="now.html">Aktuelles</a>
 </div>
 
-<p>
+<div class="caption">15.01 - 15.04, 2020</div>
+<div class="description">360° Stillstand. Plakate an 25 Litfaßsäulen in Köln. <a class="description" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Pressemeldung</a></div>
+<div id="google-map">
+  <script>
+    function initMap() {
+      var k = [
+      {lat: 50.91866, lng: 6.92825},
+      {lat: 50.94022, lng: 6.95543},
+      {lat: 50.88777, lng: 6.99787},
+      {lat: 50.95605, lng: 6.92281},
+      {lat: 50.93238, lng: 6.99663},
+      {lat: 50.92373, lng: 6.94471},
+      {lat: 50.96269, lng: 6.89363},
+      {lat: 50.90848, lng: 6.95981},
+      {lat: 50.97399, lng: 7.05756},
+      {lat: 50.93396, lng: 7.05985},
+      {lat: 50.9665, lng: 6.95233},
+      {lat: 50.93508, lng: 6.99785},
+      {lat: 50.90704, lng: 6.97781},
+      {lat: 50.95067, lng: 7.0032},
+      {lat: 50.90065, lng: 6.94573},
+      {lat: 50.97765, lng: 6.89712},
+      {lat: 51.02154, lng: 6.89538},
+      {lat: 50.99729, lng: 6.90746},
+      {lat: 50.93524, lng: 6.94315},
+      {lat: 50.92876, lng: 6.95014},
+      {lat: 51.01928, lng: 6.90058},
+      {lat: 50.93583, lng: 6.94861},
+      {lat: 50.93125, lng: 6.95016},
+      {lat: 50.95375, lng: 6.96299},
+      {lat: 50.88555, lng: 7.06583}
+      ];
+      var map = new google.maps.Map(document.getElementById('google-map'), {
+        zoom: 11,
+        center: {lat: 50.9452098, lng: 6.951476},
+        disableDefaultUI: true,
+        styles: [
+        {
+          "featureType": "administrative",
+          "elementType": "labels.text.fill",
+          "stylers": [
+          {
+            "color": "#444444"
+          }
+          ]
+        },
+        {
+          "featureType": "landscape",
+          "elementType": "all",
+          "stylers": [
+          {
+            "color": "#fff"
+          }
+          ]
+        },
+        {
+          "featureType": "poi",
+          "elementType": "all",
+          "stylers": [
+          {
+            "visibility": "off"
+          }
+          ]
+        },
+        {
+          "featureType": "road",
+          "elementType": "all",
+          "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 45
+          }
+          ]
+        },
+        {
+          "featureType": "road.highway",
+          "elementType": "all",
+          "stylers": [
+          {
+            "visibility": "simplified"
+          }
+          ]
+        },
+        {
+          "featureType": "road.arterial",
+          "elementType": "labels.icon",
+          "stylers": [
+          {
+            "visibility": "off"
+          }
+          ]
+        },
+        {
+          "featureType": "transit",
+          "elementType": "all",
+          "stylers": [
+          {
+            "visibility": "off"
+          }
+          ]
+        },
+        {
+          "featureType": "water",
+          "elementType": "all",
+          "stylers": [
+          {
+            "color": "#c0e4f3"
+          },
+          {
+            "visibility": "on"
+          }
+          ]
+        }
+        ]
+      });
+      var marker;
+      var markers = new Array();
+      for (var i = 0; i < k.length; i++) {
+        marker = new google.maps.Marker({
+          position: k[i],
+          map: map,
+          icon: {
+            url: "images/map-marker.svg",
+            scaledSize: new google.maps.Size(30, 30),
+          }
+        });
+        markers.push(marker);
+      }
+    }
+  </script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=APIKEY&callback=initMap"></script>
+</div>
 </br>
 </br>
 </br>
-
-
-<b>Aktuell</b></br>
-</br>
-15.01 - 15.03, 2020   &#160; &#160; &#160; &#160;<!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
-360° Stillstand. Plakate an 25 Litfaßsäulen in Köln.</a>
-<a class="links" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Pressemeldung</a></br>
-</br>
-<iframe src="https://www.google.com/maps/d/embed?mid=1Gsl4n0RnKT8rGCkU30FvcOo1-KP-1d4P" width="640" height="480"></iframe>
+<div class="caption">28.02 - 29.02, 2020</div>
+<div class="description content-container">+1, Gruppenausstellung in der Niehler Freiheit e.V., Köln mit Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</div>
 </br>
 </br>
 </br>
-
-<b>Demnächst</b></br>
-</br>
-28.02 - 29.02, 2020   &#160; &#160; &#160; &#160;<!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
-+1, Gruppenausstellung in der Niehler Freiheit e.V., Köln mit Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</a></br>
-</br>
-</br>
-</br>
-</p>
 <div class="footer">
   <a class="footer__daten" href="/datenschutz.html">Datenschutzerklärung</a>
   <a class="footer__daten" href="/impressum.html">Impressum</a>

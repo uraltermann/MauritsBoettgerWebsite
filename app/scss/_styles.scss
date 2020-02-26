@@ -75,7 +75,7 @@ body {
 }
 
 .ul {
-font-size: $font-size-base;
+  font-size: $font-size-base;
   color: $black;
   cursor: pointer;
   text-decoration: underline;
@@ -87,7 +87,7 @@ font-size: $font-size-base;
 }
 
 .links {
-font-size: $font-size-md;
+  font-size: $font-size-md;
   color: $black;
   cursor: pointer;
   text-decoration: underline;
@@ -111,7 +111,13 @@ font-size: $font-size-md;
   margin-top: 2px;
   margin-bottom: 19px;
   color: $black;
-  font-size: 13px
+  font-size: 13px;
+}
+
+.content-container {
+  @include media-breakpoint-up(md) {
+    width: $width-article-row;
+  }
 }
 
 .image-xs,
@@ -131,7 +137,6 @@ font-size: $font-size-md;
 }
 
 .footer {
-
   color: $grey;
   font-size: $font-size-xs;
   line-height: 1.3;
@@ -144,25 +149,34 @@ font-size: $font-size-md;
       float: right;
     }
 
-      &__email {
-    color: $grey;
-    &:hover {
-      color: $hover-color;
+    &__email {
+      color: $grey;
+      &:hover {
+        color: $hover-color;
+      }
     }
-  }
   }
 
   &__daten {
-  color: $grey;
-  margin: 0 $dist-xs $dist-xs 0;
+    color: $grey;
+    margin: 0 $dist-xs $dist-xs 0;
     &:hover {
-    color: $hover-color;
+      color: $hover-color;
+    }
+
+    @include media-breakpoint-up(md) {
+      float: left;
+    }
   }
+}
+
+#google-map {
+  display: block;
+  width: 100%;
+  height: 500px;
+  background-color: $grey;
 
   @include media-breakpoint-up(md) {
-    float: left;
+    width: $width-article-row;
   }
-  
 }
-}
-

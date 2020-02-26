@@ -1,0 +1,132 @@
+<div id="google-map">
+  <script>
+    function initMap() {
+      var k = [
+      {lat: 50.91866, lng: 6.92825},
+      {lat: 50.94022, lng: 6.95543},
+      {lat: 50.88777, lng: 6.99787},
+      {lat: 50.95605, lng: 6.92281},
+      {lat: 50.93238, lng: 6.99663},
+      {lat: 50.92373, lng: 6.94471},
+      {lat: 50.96269, lng: 6.89363},
+      {lat: 50.90848, lng: 6.95981},
+      {lat: 50.97399, lng: 7.05756},
+      {lat: 50.93396, lng: 7.05985},
+      {lat: 50.9665, lng: 6.95233},
+      {lat: 50.93508, lng: 6.99785},
+      {lat: 50.90704, lng: 6.97781},
+      {lat: 50.95067, lng: 7.0032},
+      {lat: 50.90065, lng: 6.94573},
+      {lat: 50.97765, lng: 6.89712},
+      {lat: 51.02154, lng: 6.89538},
+      {lat: 50.99729, lng: 6.90746},
+      {lat: 50.93524, lng: 6.94315},
+      {lat: 50.92876, lng: 6.95014},
+      {lat: 51.01928, lng: 6.90058},
+      {lat: 50.93583, lng: 6.94861},
+      {lat: 50.93125, lng: 6.95016},
+      {lat: 50.95375, lng: 6.96299},
+      {lat: 50.88555, lng: 7.06583}
+      ];
+      var map = new google.maps.Map(document.getElementById('google-map'), {
+        zoom: 11,
+        center: {lat: 50.9452098, lng: 6.951476},
+        disableDefaultUI: true,
+        styles: [
+        {
+          "featureType": "administrative",
+          "elementType": "labels.text.fill",
+          "stylers": [
+          {
+            "color": "#444444"
+          }
+          ]
+        },
+        {
+          "featureType": "landscape",
+          "elementType": "all",
+          "stylers": [
+          {
+            "color": "#fff"
+          }
+          ]
+        },
+        {
+          "featureType": "poi",
+          "elementType": "all",
+          "stylers": [
+          {
+            "visibility": "off"
+          }
+          ]
+        },
+        {
+          "featureType": "road",
+          "elementType": "all",
+          "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 45
+          }
+          ]
+        },
+        {
+          "featureType": "road.highway",
+          "elementType": "all",
+          "stylers": [
+          {
+            "visibility": "simplified"
+          }
+          ]
+        },
+        {
+          "featureType": "road.arterial",
+          "elementType": "labels.icon",
+          "stylers": [
+          {
+            "visibility": "off"
+          }
+          ]
+        },
+        {
+          "featureType": "transit",
+          "elementType": "all",
+          "stylers": [
+          {
+            "visibility": "off"
+          }
+          ]
+        },
+        {
+          "featureType": "water",
+          "elementType": "all",
+          "stylers": [
+          {
+            "color": "#c0e4f3"
+          },
+          {
+            "visibility": "on"
+          }
+          ]
+        }
+        ]
+      });
+      var marker;
+      var markers = new Array();
+      for (var i = 0; i < k.length; i++) {
+        marker = new google.maps.Marker({
+          position: k[i],
+          map: map,
+          icon: {
+            url: "images/map-marker.svg",
+            scaledSize: new google.maps.Size(30, 30),
+          }
+        });
+        markers.push(marker);
+      }
+    }
+  </script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=APIKEY&callback=initMap"></script>
+</div>

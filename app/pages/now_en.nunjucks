@@ -6,37 +6,24 @@
 
 {% block content %}
 
-                <div class="language_selector">
-                    en <a class="language_selector__email" href="now.html">de</a> 
-              </div>
+<div class="language_selector">
+  en <a class="language_selector__email" href="now.html">de</a> 
+</div>
 
 {% include "navigation_en.nunjucks" %}
-<p>
-</br>
-</br>
-</br>
 
-
-<b>Now</b></br>
-</br>
-
-January 15, 2020 - March 15, 2020   &#160; &#160; &#160; &#160; &#160;<!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
-360° Stillstand, 25 posters on advertising columns in Cologne.</a>
-<a class="links" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Press release</a></br>
-</br>
-<iframe src="https://www.google.com/maps/d/embed?mid=1Gsl4n0RnKT8rGCkU30FvcOo1-KP-1d4P" width="640" height="480"></iframe>
+<div class="caption">January 15, 2020 - March 15, 2020</div>
+<div class="description">360° Stillstand, 25 posters on advertising columns in Cologne. <a class="description" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Press release</a></div>
+{% include "map.nunjucks" %}
 </br>
 </br>
 </br>
-<b>Upcoming</b></br>
-</br>
-February 28, 2020   &#160; &#160; &#160; &#160;<!--<a class="links" href="https://www.me-berlin.com/the-long-now/lang/en/">-->
-+1, Group exhibition in Niehler Freiheit e.V., Köln with Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</a></br>
+<div class="caption">February 28, 2020</div>
+<div class="description content-container">+1, Group exhibition in Niehler Freiheit e.V., Köln with Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</a></br></div>
 </br>
 </br>
-</p>
+</br>
 {% include "footer_en.nunjucks" %}
-
 
 
 {% endblock %}
