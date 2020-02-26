@@ -10,11 +10,7 @@
                     de <a class="language_selector__email" href="datenschutz.html">en</a> 
               </div>
 
-<div class="navigation">
-	<a class="page_ul" href="index_en.html">Works</a>
-	<a class="page_ul" href="vita_en.html">Bio</a>
-	<a class="page_ul" href="now_en.html">Current</a>
-</div>
+{% include "navigation_en.nunjucks" %}
 <p>
 </br>
 </br>

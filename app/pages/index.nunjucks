@@ -10,11 +10,7 @@
 	de <a class="language_selector__email" href="index_en.html">en</a> 
 </div>
 
-<div class="navigation">
-	<a class="page" href="index.html">Werke</a>
-	<a class="page_ul" href="vita.html">Biografie</a>
-	<a class="page_ul" href="now.html">Aktuell</a>
-</div>	
+{% include "navigation.nunjucks" %}
 
 <div class="grid row">
 	<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>

@@ -10,11 +10,7 @@ U<!-- index.nunjucks -->
                     de <a class="language_selector__email" href="vita_en.html">en</a> 
               </div>
 
-<div class="navigation">
-	<a class="page_ul" href="index.html">Werke</a>
-	<a class="page" href="vita.html">Biografie</a>
-	<a class="page_ul" href="now.html">Aktuell</a>
-</div>
+{% include "navigation.nunjucks" %}
 <p>
 </br>
 </br>
