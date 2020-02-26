@@ -1,5 +1,5 @@
 <!-- index.nunjucks -->
-{% set title = 'Bio Maurits Boettger' %}
+{% set title = 'Biography Maurits Boettger' %}
 {% set language = 'en' %}
 {% set content = 'Time Based Art' %}
 {% extends "layout.nunjucks" %}

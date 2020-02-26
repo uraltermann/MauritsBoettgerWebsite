@@ -1868,7 +1868,13 @@ body {
 .page {
   font-size: 1.47rem;
   color: #222;
-  text-decoration: none; }
+  cursor: pointer;
+  text-decoration: underline; }
+  .page:hover {
+    color: crimson;
+    text-decoration: underline; }
+  .page--active {
+    text-decoration: none; }
 
 .ul {
   font-size: 1.6rem;
@@ -1876,15 +1882,6 @@ body {
   cursor: pointer;
   text-decoration: underline; }
   .ul:hover {
-    color: crimson;
-    text-decoration: underline; }
-
-.page_ul {
-  font-size: 1.47rem;
-  color: #222;
-  cursor: pointer;
-  text-decoration: underline; }
-  .page_ul:hover {
     color: crimson;
     text-decoration: underline; }
 

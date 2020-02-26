@@ -1,7 +1,7 @@
 <!-- index.nunjucks -->
 {% set title = 'Maurits Boettger' %}
 {% set language = 'de' %}
-{% set content = 'Zeitbasierte Kunst' %}
+{% set content = 'In seiner Arbeit hinterfragt Maurits Boettger Prozesse in der Wahrnehmung. Er dekonstruiert Informationsträger wie Licht, Ton, Luft und ermöglicht durch gezielte Eingriffe Perspektivwechsel, die den Betrachter seiner Wahrnehmung bewusst werden lassen.' %}
 {% extends "layout.nunjucks" %}
 
 {% block content %}
