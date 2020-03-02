@@ -18,11 +18,6 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 </br>
 </br>
 </br>
-<div class="caption">28.02 - 29.02, 2020</div>
-<div class="description content-container">+1, Gruppenausstellung in der Niehler Freiheit e.V., Köln mit Andi Tritsch, Olga Jakob, Nadjana Mohr, Philipp Naujoks, Heike Simmer, Friedrich Böll</div>
-</br>
-</br>
-</br>
 {% include "footer.nunjucks" %}
 
 
