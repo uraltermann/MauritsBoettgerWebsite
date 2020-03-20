@@ -1,5 +1,5 @@
 <div class="navigation">
   <a class="page {% if title == 'Maurits Boettger' %}page--active{% endif %}" href="index.html">Werke</a>
   <a class="page {% if title == 'Biografie Maurits Boettger' %}page--active{% endif %}" href="vita.html">Biografie</a>
-  <a class="page {% if title == 'Aktuelle Ausstellungen Maurits Boettger' %}page--active{% endif %}" href="now.html">Aktuelles</a>
+  <!--<a class="page {% if title == 'Aktuelle Ausstellungen Maurits Boettger' %}page--active{% endif %}" href="now.html">Aktuelles</a>-->
 </div>
