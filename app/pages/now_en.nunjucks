@@ -12,13 +12,12 @@
 
 {% include "navigation_en.nunjucks" %}
 
-<div class="caption">January 15, 2020 - March 15, 2020</div>
-<div class="description">360° Stillstand, 25 posters on advertising columns in Cologne. <a class="description" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Press release</a></div>
-{% include "map.nunjucks" %}
+<div class="caption">September 24, 2020</div>
+<div class="description">Umweg 1, m20, Alte Feuerwache Köln</div>
+<!--{% include "map.nunjucks" %}-->
 </br>
 </br>
-</br>
-<div class="caption">May 09, 2020</div>
+<div class="caption">CANCELLED - November 07, 2020</div>
 <div class="description">Time Sales Ltd. at <a class="description" href="https://nachtaktiv-mg.de">Kulturnacht 2020</a> Mönchengladbach</div>
 </br>
 </br>

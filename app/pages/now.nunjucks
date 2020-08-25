@@ -12,13 +12,12 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 
 {% include "navigation.nunjucks" %}
 
-<div class="caption">15.01 - 15.04, 2020</div>
-<div class="description">360° Stillstand. Plakate an 25 Litfaßsäulen in Köln. <a class="description" href="https://www.stadt-koeln.de/…/…/mitteilungen/21374/index.html">Pressemeldung</a></div>
-{% include "map.nunjucks" %}
+<div class="caption">24.09.2020, 19h</div>
+<div class="description">Umweg 1, m20, Alte Feuerwache Köln</div>
+<!--{% include "map.nunjucks" %}-->
 </br>
 </br>
-</br>
-<div class="caption">09.05.2020</div>
+<div class="caption">FÄLLT AUS - 07.11.2020</div>
 <div class="description">Time Sales Ltd. bei der <a class="description" href="https://nachtaktiv-mg.de">Kulturnacht 2020</a> Mönchengladbach</div>
 </br>
 </br>
