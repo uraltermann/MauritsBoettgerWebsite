@@ -11,14 +11,27 @@
 </div>
 
 {% include "navigation_en.nunjucks" %}
-
+</br>
+</br>
 <div class="caption">September 24th, 2020</div>
-<div class="description">Umweg 1, m20, Alte Feuerwache Köln</div>
+<div class="description">Umweg 1, M20, Alte Feuerwache Köln</div>
 <!--{% include "map.nunjucks" %}-->
 </br>
 </br>
-<div class="caption">CANCELLED - November 07th, 2020</div>
-<div class="description">Time Sales Ltd. at <a class="description" href="https://nachtaktiv-mg.de">Kulturnacht 2020</a> Mönchengladbach</div>
+<div class="caption">October 24th - November 29th, 2020</div>
+<div class="description">TRAP, Künstlerhaus Dortmund</div>
+<div class="image-container">
+<img class="image-xs" src="images/Webp.net-resizeimage.jpg" alt="TRAP, Künstlerhaus Dortmund">
+</div>
+</br>
+</br>
+</br>
+<div class="caption">Dezember 5th - 20th, 2020</div>
+<div class="description">Patienten, MMII Kunstverein Mönchengladbach</div>
+</br>
+</br>
+<div class="caption">February 26th - 27th, 2021</div>
+<div class="description">+1², Kunstwerk Köln</div>
 </br>
 </br>
 <div class="caption">March 28th, 2021</div>
