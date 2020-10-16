@@ -13,12 +13,19 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 {% include "navigation.nunjucks" %}
 </br>
 </br>
-<div class="caption">24.09.2020, 19h</div>
+<div class="caption">24.09.2020 - 12.12.2020</div>
 <div class="description">Umweg 1, m20, Alte Feuerwache Köln</div>
 <div class="image-container">
 <img class="image-xs" src="images/m20_Flyer_faltbar_CMYK.jpg" alt="TRAP, Künstlerhaus Dortmund">
 </div>
 <!--{% include "map.nunjucks" %}-->
+</br>
+</br>
+<div class="caption">23.10.2020, 17:00h und 24.10.2020, 18:00h</div>
+<div class="description">Screening: Did you have a shower today? Ein Tanzfilm von Katharina Roll und Maurits Boettger beim <a href="https://performancegarten.de">Performance Garten</a></div>
+<div class="image-container">
+<img class="image-xs" src="images/didyou.jpg" alt="Filmstill: Did you have a shower today?">
+</div>
 </br>
 </br>
 <div class="caption">24.10. - 29.11.2020</div>
@@ -41,7 +48,7 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 <div class="description">RKL, MEKASUBA Festival, Alte Feuerwache Köln</div>
 </br>
 </br>
- <a class="description" href="https://mauritsboettger.us2.list-manage.com/subscribe?u=06ebf694e56c91b0bf9d08fb5&id=d2bf3b796f">Subscribe to newsletter</a>
+ <a class="description" href="https://mauritsboettger.us2.list-manage.com/subscribe?u=06ebf694e56c91b0bf9d08fb5&id=d2bf3b796f">Newsletter abonnieren</a>
 </br>
 </br>
 </br>
