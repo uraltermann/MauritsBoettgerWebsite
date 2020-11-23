@@ -14,12 +14,11 @@
 
 </br>
 </br>
-<div class="caption">September 24th - Dezember 12th, 2020</div>
-<div class="description">Umweg 1, M20, Alte Feuerwache Köln</div>
+<div class="caption">December 5th - 20th, 2020</div>
+<div class="description">Ticks, MMIII Kunstverein Mönchengladbach</div>
 <div class="image-container">
-	<a href="https://altefeuerwachekoeln.de/events/m20-ein-projekt-fuer-junge-kuenstlerinnen/">
-<img class="image-xs" src="images/m20_Flyer_faltbar_CMYK.jpg" alt="m20, Alte Feuerwache Köln"></a>
-</div>
+		<a href="https://www.mmiii.de/79-ausstellungen/214-maurits-boettger">
+<img class="image-xs" src="images/Ticks.jpg" alt="TICKS, MMIII Kunstverein Mönchengladbach"></a></div>
 <!--{% include "map.nunjucks" %}-->
 </br>
 </br>
@@ -41,11 +40,11 @@
 </br>
 </br>
 </br>
-<div class="caption">December 5th - 20th, 2020</div>
-<div class="description">Ticks, MMIII Kunstverein Mönchengladbach</div>
+<div class="caption">September 24th - Dezember 12th, 2020</div>
+<div class="description">Umweg 1, M20, Alte Feuerwache Köln</div>
 <div class="image-container">
-		<a href="https://www.mmiii.de/79-ausstellungen/214-maurits-boettger">
-<img class="image-xs" src="images/Ticks.jpg" alt="TICKS, MMIII Kunstverein Mönchengladbach"></a></div>
+	<a href="https://altefeuerwachekoeln.de/events/m20-ein-projekt-fuer-junge-kuenstlerinnen/">
+<img class="image-xs" src="images/m20_Flyer_faltbar_CMYK.jpg" alt="m20, Alte Feuerwache Köln"></a></div>
 </br>
 </br>
 <div class="caption">February 26th - 27th, 2021</div>
