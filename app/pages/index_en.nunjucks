@@ -21,7 +21,7 @@
 		<div class="image-container">
 
 			<a data-fancybox="gallery-timeplay" data-caption="Exhibition view Time Play" href="images/timeplay_3.jpg">
-			<img class="image-small" src="images/small/timeplay.jpg" alt="Exhibition view Time Play">
+			<img class="image-small" src="images/small/timeplay_small.jpg" alt="Exhibition view Time Play">
 			</a>
 			<a data-fancybox="gallery-timeplay" data-caption="Exhibition view Time Play" href="images/timeplay_4.jpg">
 			</a>
@@ -45,7 +45,7 @@
 		<div class="image-container">
 
 			<a data-fancybox="gallery-htktf" data-caption="Exhibition view: How to kill time fast" href="images/htktf1.jpg">
-				<img class="image-small" src="images/small/htktf1.jpg" alt="Exhibition view How to kill time fast">
+				<img class="image-small" src="images/small/htktf1_small.jpg" alt="Exhibition view How to kill time fast">
 			</a>
 
 			<a data-fancybox="gallery-htktf" data-caption="Exhibition view How to kill time fast" href="images/htktf3.jpg">
@@ -321,7 +321,7 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 			<a data-fancybox data-caption="Watch, Apparatus, 2017" href="images/watch2.jpg">
-				<img class="image-small" src="images/small/watch2.jpg" alt="Watch">
+				<img class="image-small" src="images/small/watch2_small.jpg" alt="Watch">
 			</a>
 			<div class="caption">Watch, Apparatus, 2017</br></div> 
 			<div class="description">
