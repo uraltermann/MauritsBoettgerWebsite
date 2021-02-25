@@ -18,27 +18,6 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
-			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_3.jpg">
-				<img class="image-small" src="images/small/timeplay_small.jpg" alt="Ausstellungsansicht Time Play">
-			</a>
-			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_4.jpg">
-			</a>
-			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_2.jpg">
-			</a>
-			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay.jpg">
-			</a>
-			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_1.jpg">
-			</a>
-
-			<div class="caption">Time Play, Installation, 2020</br></div>
-			<div class="description">Rotierende Türme aufgedrehter Kurzzeitwecker
-			</div>
-		</div>
-	</div>
-
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-
 			<a data-fancybox="gallery-htktf" data-caption="Ausstellungsansicht How to kill time fast" href="images/htktf1.jpg">
 				<img class="image-small" src="images/small/htktf1_small.jpg" alt="Ausstellungsansicht How to kill time fast">
 			</a>
@@ -56,42 +35,6 @@
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
-			<a data-fancybox="gallery-umweg" data-caption="Rendering Umweg 1" href="images/umweg1.gif">
-				<img class="image-small" src="images/small/umweg1.gif" alt="Rendering Umweg 1">
-			</a>
-
-			<div class="caption">Umweg 1, Installation, 2020</br></div>
-			<div class="description">Eine Installation, welche ihren Sockel, die m20 in der Alten Feuerwache Köln ausstellt.
-			</div>
-		</div>
-	</div>
-
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-
-			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino1.jpg">
-				<img class="image-small" src="images/small/destino1.jpg" alt="Filmstill destino, destino,">
-			</a>
-
-			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino2.jpg">
-			</a>
-			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino4.jpg">
-			</a>
-			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino3.jpg">
-			</a>
-			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino5.jpg">
-			</a>
-
-
-
-			<div class="caption">destino, destino, Film, 2020</br></div>
-			<div class="description">An den Busbahnhöfen Südamerikas kreieren die Jaladores mit ihren Rufen ein akustisches Leitsystem, welches die Fahrgäste zu den Bussen führt. Der Zweck der Rufe verliert sich, wenn die Jaladores in der Hektik der Terminals durcheinander schreien, die Rufe lautmalerisch ausgestalten und bis zur Unkenntlichkeit abstrahieren.</div>
-		</div>
-	</div>
-
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-
 			<a data-fancybox="gallery-absence" data-caption="Videostill The presence of absence" href="images/presence of absence.jpg">
 				<img class="image-small" src="images/small/presence of absence.jpg" alt="Videostill The presence of absence">
 			</a>
@@ -102,28 +45,7 @@
 		</div>
 	</div>
 
-
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
-		<div class="image-container">
-
-			<a data-fancybox="gallery-auquix" data-caption="Videostill Toauquix" href="images/toauquix2.png">
-				<img class="image-small" src="images/small/toauquix2.png" alt="Videostill Toauquix">
-			</a>
-
-			<a data-fancybox="gallery-auquix" data-caption="Videostill Toauquix" href="images/toauquix1.png">
-			</a>
-
-			<a data-fancybox="gallery-auquix" data-caption="Videostill Toauquix" href="images/toauquix3.png">
-			</a>
-
-			<div class="caption">Toauquix, Video, 2019</br></div>
-			<div class="description">Die Aufhebung von Ort, durch Abstraktion von Namen. Eine Reise mit dem Horizont. <a class="description" href="https://vimeo.com/317819131">Anschauen</a>
-			</div>
-		</div>
-	</div>
-
-
-	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="grid-item col-sm-6 col-md-4 col-lg-3">
 		<div class="image-container">
 
 			<a data-fancybox="gallery-litfass" data-caption="Eine der 25 Kunstsäulen mit dem Motiv 360° Stillstand" href="images/litfass11.jpg">
@@ -175,6 +97,87 @@
 		</div>
 	</div>
 
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
+			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_3.jpg">
+				<img class="image-small" src="images/small/timeplay_small.jpg" alt="Ausstellungsansicht Time Play">
+			</a>
+			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_4.jpg">
+			</a>
+			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_2.jpg">
+			</a>
+			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay.jpg">
+			</a>
+			<a data-fancybox="gallery-timeplay" data-caption="Ausstellungsansicht Time Play" href="images/timeplay_1.jpg">
+			</a>
+
+			<div class="caption">Time Play, Installation, 2020</br></div>
+			<div class="description">Rotierende Türme aufgedrehter Kurzzeitwecker
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
+			<a data-fancybox="gallery-umweg" data-caption="Rendering Umweg 1" href="images/umweg1.gif">
+				<img class="image-small" src="images/small/umweg1.gif" alt="Rendering Umweg 1">
+			</a>
+
+			<div class="caption">Umweg 1, Installation, 2020</br></div>
+			<div class="description">Eine Installation, welche ihren Sockel, die m20 in der Alten Feuerwache Köln ausstellt.
+			</div>
+		</div>
+	</div>
+
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
+			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino1.jpg">
+				<img class="image-small" src="images/small/destino1.jpg" alt="Filmstill destino, destino,">
+			</a>
+
+			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino2.jpg">
+			</a>
+			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino4.jpg">
+			</a>
+			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino3.jpg">
+			</a>
+			<a data-fancybox="gallery-destino" data-caption="Filmstill destino, destino," href="images/destino5.jpg">
+			</a>
+
+
+
+			<div class="caption">destino, destino, Film, 2020</br></div>
+			<div class="description">An den Busbahnhöfen Südamerikas kreieren die Jaladores mit ihren Rufen ein akustisches Leitsystem, welches die Fahrgäste zu den Bussen führt. Der Zweck der Rufe verliert sich, wenn die Jaladores in der Hektik der Terminals durcheinander schreien, die Rufe lautmalerisch ausgestalten und bis zur Unkenntlichkeit abstrahieren.</div>
+		</div>
+	</div>
+
+
+
+
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
+
+			<a data-fancybox="gallery-auquix" data-caption="Videostill Toauquix" href="images/toauquix2.png">
+				<img class="image-small" src="images/small/toauquix2.png" alt="Videostill Toauquix">
+			</a>
+
+			<a data-fancybox="gallery-auquix" data-caption="Videostill Toauquix" href="images/toauquix1.png">
+			</a>
+
+			<a data-fancybox="gallery-auquix" data-caption="Videostill Toauquix" href="images/toauquix3.png">
+			</a>
+
+			<div class="caption">Toauquix, Video, 2019</br></div>
+			<div class="description">Die Aufhebung von Ort, durch Abstraktion von Namen. Eine Reise mit dem Horizont. <a class="description" href="https://vimeo.com/317819131">Anschauen</a>
+			</div>
+		</div>
+	</div>
 
 
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
