@@ -35,6 +35,7 @@
     "postcss-flexbugs-fixes": "^4.2.1"
   },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "is-svg": "^4.3.1"
   }
 }
