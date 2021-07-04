@@ -13,12 +13,30 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 {% include "navigation.nunjucks" %}
 </br>
 </br>
-<div class="caption">05.12. - 20.12.2020</div>
-<div class="description">Ticks, MMIII Kunstverein Mönchengladbach
-	<div class="image-container">
+<div class="caption">+1²</div>
+<div class="description">Kunstwerk Köln</br></br>Vernissage: 23.07.2021, 19h</br>
+Laufzeit: 24.7. - 01.08.2021</br></br>
+Mit:</br>
+Andreas Felix Tritsch</br>
+Heike Simmer</br>
+Philipp Naujoks</br>
+Nadjana Mohr</br>
+Friedrich Boell</br>
+Olga Jakob</br>
+Phaidonas Gialis</br>
+Nina Paszkowski</br>
+Maurits Boettger</br></div>
+
+</br>
+</br>
+<div class="caption">Launch: Time Sales Online</div>
+<div class="description">31.07.2021 @
+<a href="https://timesales.ltd">Time Sales Online</a></div>
+
+<!--	<div class="image-container">
 		<a href="https://www.mmiii.de/79-ausstellungen/214-maurits-boettger">
 <img class="image-xs" src="images/Ticks.jpg" alt="TICKS, MMIII Kunstverein Mönchengladbach"></a></div>
-<!--{% include "map.nunjucks" %}-->
+c{% include "map.nunjucks" %}-->
 </br>
 </br>
 <!--<div class="caption">23.10.2020, 17:00h und 24.10.2020, 18:00h</div>
@@ -29,6 +47,7 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 </br>
 </br>
 -->
+<!--
 <div class="caption">24.10. - 06.12.2020</div>
 <div class="description">TRAP, Künstlerhaus Dortmund</div>
 <div class="image-container">
@@ -50,8 +69,7 @@ de <a class="language_selector__email" href="now_en.html">en</a>
 </br>
 <div class="caption">28.03.2021</div>
 <div class="description">RKL, MEKASUBA Festival, Alte Feuerwache Köln</div>
-</br>
-</br>
+-->
  <a class="description" href="https://mauritsboettger.us2.list-manage.com/subscribe?u=06ebf694e56c91b0bf9d08fb5&id=d2bf3b796f">Newsletter abonnieren</a>
 </br>
 </br>
