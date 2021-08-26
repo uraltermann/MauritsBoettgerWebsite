@@ -11,7 +11,7 @@
 </div>
 
 {% include "navigation_en.nunjucks" %}
-</br>
+<!--</br>
 </br>
 <div class="caption">+1²</div>
 <div class="description">Kunstwerk Cologne</br></br>Vernissage: 23.07.2021, 19h</br>
@@ -31,7 +31,7 @@ Maurits Boettger</br></div>
 </br>
 <div class="caption">Novelty Trap</div>
 <div class="description">Ein Impuls</br>27.07.2021-01.08.2012</br>Stroer Infoscreens, Ebertplatz Cologne
-</div>
+</div>-->
 
 </br>
 </br>

@@ -16,7 +16,20 @@
 	<div class="grid-sizer col-sm-6 col-md-4 col-lg-3"></div>
 
 
+	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
+		<div class="image-container">
 
+			<a data-fancybox="gallery-TSO" data-caption="Advertisement Time Sales Online" href="images/shortontime.gif">
+				<img class="image-small" src="images/shortontime.gif" alt="Advertisement Time Sales Online">
+			</a>
+			<a data-fancybox="gallery-TSO" data-caption="Advertisement Time Sales Online" href="images/shortontime.gif">
+			</a>
+
+			<div class="caption">Time Sales Online, Onlineshop, 2021</br></div>
+			<div class="description">In our new webshop we offer custom solutions for your personal time management. <a class="description" href="https://www.timesales.ltd">www.timesales.ltd</a>
+			</div>
+		</div>
+	</div>
 
 
 	<div class="grid-item col-sm-6 col-md-4 col-lg-3">
@@ -32,7 +45,7 @@
 			</a>
 
 			<div class="caption">How to kill time fast, Video Installation, 2020</br></div>
-			<div class="description">Cracking sunflower seeds serves for nothing but killing time. How about making it efficient?
+			<div class="description">Cracking sunflower seeds serves for nothing but killing time. Let’s bring in some efficiency!
 			</div>
 		</div>
 	</div>
